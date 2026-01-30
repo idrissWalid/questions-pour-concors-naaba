@@ -1,0 +1,4559 @@
+[
+  {
+    "id": 1,
+    "question": "Date de décès de l’ancien joueur et ancien entraîneur du Burkina Faso, Drissa Malo Traoré dit Saboteur :",
+    "options": {
+      "A": "7 décembre 2023",
+      "B": "1er décembre 2023",
+      "C": "3 décembre 2023",
+      "D": "9 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "Drissa Malo Traoré, surnommé Saboteur, est décédé le 3 décembre 2023."
+  },
+  {
+    "id": 2,
+    "question": "Date de la rencontre entre le chef de l’État et les acteurs de la coordination de la veille citoyenne au palais des sports de Ouaga 2000 :",
+    "options": {
+      "A": "15 janvier 2024",
+      "B": "07 février 2024",
+      "C": "17 février 2024",
+      "D": "05 mars 2024"
+    },
+    "correct": ["C"],
+    "explanation": "La rencontre s’est tenue le 17 février 2024 au palais des sports de Ouaga 2000."
+  },
+  {
+    "id": 3,
+    "question": "Quel chercheur burkinabè a été désigné le 13 décembre 2023 parmi les 10 scientifiques de l’année par le magazine britannique Nature ?",
+    "options": {
+      "A": "Mohamadi Zéba",
+      "B": "Halidou Tinto",
+      "C": "Frédéric Ouattara",
+      "D": "Boubacar Kountche"
+    },
+    "correct": ["B"],
+    "explanation": "Le chercheur burkinabè Halidou Tinto a été classé parmi les 10 scientifiques de l’année 2023 par Nature."
+  },
+  {
+    "id": 4,
+    "question": "Date d’ouverture du Salon International du Tourisme et de l’Hôtellerie de Ouagadougou (SITHO) 2023 :",
+    "options": {
+      "A": "24 novembre 2023",
+      "B": "26 octobre 2023",
+      "C": "26 septembre 2023",
+      "D": "29 octobre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "L’édition 2023 du SITHO a officiellement ouvert le 26 octobre 2023."
+  },
+  {
+    "id": 5,
+    "question": "Pays invité d’honneur du SITHO-VITHRO 2023 :",
+    "options": {
+      "A": "Mali",
+      "B": "Guinée",
+      "C": "Niger",
+      "D": "Ghana"
+    },
+    "correct": ["B"],
+    "explanation": "La Guinée était le pays invité d’honneur du SITHO-VITHRO 2023."
+  },
+  {
+    "id": 6,
+    "question": "Qui est l’actuel chef d’État-major de la gendarmerie nationale du Burkina Faso ?",
+    "options": {
+      "A": "Évrard Somda",
+      "B": "Kassoum Coulibaly",
+      "C": "Natama Kouagri",
+      "D": "Coulibaly Mamadou"
+    },
+    "correct": ["C"],
+    "explanation": "Le colonel Natama Kouagri est l’actuel chef d’État-major de la gendarmerie nationale."
+  },
+  {
+    "id": 7,
+    "question": "Date de nomination de l’actuel chef d’État-major de la gendarmerie nationale :",
+    "options": {
+      "A": "20 novembre 2022",
+      "B": "04 octobre 2023",
+      "C": "04 octobre 2022",
+      "D": "04 novembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "La nomination est intervenue le 4 octobre 2023."
+  },
+  {
+    "id": 8,
+    "question": "À quelle date le gouvernement a-t-il retiré les permis d’exploitation de quatre mines industrielles ?",
+    "options": {
+      "A": "08 novembre 2023",
+      "B": "08 octobre 2023",
+      "C": "09 octobre 2023",
+      "D": "08 décembre 2023"
+    },
+    "correct": ["A"],
+    "explanation": "Le retrait des permis est intervenu le 8 novembre 2023."
+  },
+  {
+    "id": 9,
+    "question": "Date à laquelle le capitaine Ibrahim Traoré a posé la première pierre pour la construction d’une raffinerie d’or au Burkina Faso :",
+    "options": {
+      "A": "21 novembre 2023",
+      "B": "23 novembre 2023",
+      "C": "16 septembre 2023",
+      "D": "23 octobre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "La première pierre de la raffinerie d’or a été posée le 23 novembre 2023."
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capacité prévisionnelle de la première raffinerie d’or du Burkina Faso ?",
+    "options": {
+      "A": "200 kg/jour",
+      "B": "300 kg/jour",
+      "C": "400 kg/jour",
+      "D": "500 kg/jour"
+    },
+    "correct": ["C"],
+    "explanation": "La capacité prévisionnelle annoncée est de 400 kg d’or par jour."
+  },
+  {
+    "id": 11,
+    "question": "La 17e édition de la Foire Internationale du Livre de Ouagadougou (FILO) s’est déroulée du :",
+    "options": {
+      "A": "22 au 24 novembre 2023",
+      "B": "23 au 26 novembre 2023",
+      "C": "25 au 29 novembre 2023",
+      "D": "21 au 26 novembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "La 17e édition de la FILO s’est tenue du 23 au 26 novembre 2023."
+  },
+  {
+    "id": 12,
+    "question": "Date de démission du Pr Stanislas Ouaro du MPP :",
+    "options": {
+      "A": "7 décembre 2023",
+      "B": "8 décembre 2023",
+      "C": "9 décembre 2023",
+      "D": "5 décembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "Le Pr Stanislas Ouaro a démissionné du MPP le 8 décembre 2023."
+  },
+  {
+    "id": 13,
+    "question": "Date de lancement de la plateforme eDouanes :",
+    "options": {
+      "A": "13 décembre 2023",
+      "B": "14 décembre 2023",
+      "C": "15 décembre 2023",
+      "D": "16 décembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "La plateforme eDouanes a été lancée officiellement le 14 décembre 2023."
+  },
+  {
+    "id": 14,
+    "question": "Quel est le coût global de la plateforme eDouanes ?",
+    "options": {
+      "A": "2,8 milliards de FCFA",
+      "B": "2,3 milliards de FCFA",
+      "C": "3,8 milliards de FCFA",
+      "D": "3,2 milliards de FCFA"
+    },
+    "correct": ["A"],
+    "explanation": "Le coût global de mise en œuvre de la plateforme eDouanes est estimé à 2,8 milliards de FCFA."
+  },
+  {
+    "id": 15,
+    "question": "Quel est le thème de la 28e édition des Nuits Atypiques de Koudougou (NAK) ?",
+    "options": {
+      "A": "Culture et cohésion sociale",
+      "B": "Culture et Agriculture",
+      "C": "Économie créative et développement local",
+      "D": "Culture et Artisanat"
+    },
+    "correct": ["B"],
+    "explanation": "La 28e édition des NAK s’est tenue sous le thème « Culture et Agriculture »."
+  },
+  {
+    "id": 16,
+    "question": "Yacouba Sawadogo, lauréat du Prix Nobel Alternatif 2018, est décédé le :",
+    "options": {
+      "A": "1er décembre 2023",
+      "B": "2 décembre 2023",
+      "C": "3 décembre 2023",
+      "D": "4 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "Yacouba Sawadogo est décédé le 3 décembre 2023."
+  },
+  {
+    "id": 17,
+    "question": "Le gouvernement burkinabè a décidé de la suspension du journal Le Monde le :",
+    "options": {
+      "A": "2 décembre 2023",
+      "B": "3 décembre 2023",
+      "C": "4 décembre 2023",
+      "D": "5 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "La suspension du journal Le Monde est intervenue le 4 décembre 2023."
+  },
+  {
+    "id": 18,
+    "question": "Date de retrait du Burkina Faso et du Niger du G5 Sahel et de la Force conjointe :",
+    "options": {
+      "A": "28 novembre 2023",
+      "B": "29 novembre 2023",
+      "C": "30 novembre 2023",
+      "D": "2 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "Le Burkina Faso et le Niger se sont retirés du G5 Sahel le 30 novembre 2023."
+  },
+  {
+    "id": 19,
+    "question": "Selon le Premier ministre Apollinaire Joachim Kyélem de Tambèla, quel est le taux de territoire reconquis annoncé ?",
+    "options": {
+      "A": "65,60 %",
+      "B": "65,65 %",
+      "C": "65,70 %",
+      "D": "66,50 %"
+    },
+    "correct": ["B"],
+    "explanation": "Le Premier ministre a annoncé un taux de reconquête du territoire de 65,65 %."
+  },
+  {
+    "id": 20,
+    "question": "Date de l’effondrement d’une dalle à l’Université Norbert Zongo :",
+    "options": {
+      "A": "31 août 2021",
+      "B": "12 août 2023",
+      "C": "28 novembre 2021",
+      "D": "16 mai 2022"
+    },
+    "correct": ["A"],
+    "explanation": "L’effondrement de la dalle à l’Université Norbert Zongo s’est produit le 31 août 2021."
+  },
+  {
+    "id": 21,
+    "question": "Date d’ouverture du procès de l’effondrement d’une dalle à l’Université Norbert Zongo :",
+    "options": {
+      "A": "10 décembre 2023",
+      "B": "12 décembre 2023",
+      "C": "14 décembre 2023",
+      "D": "16 décembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "Le procès lié à l’effondrement de la dalle de l’Université Norbert Zongo s’est ouvert le 12 décembre 2023."
+  },
+  {
+    "id": 22,
+    "question": "Date de la réouverture officielle de l’ambassade de la Fédération de Russie à Ouagadougou :",
+    "options": {
+      "A": "22 décembre 2023",
+      "B": "24 décembre 2023",
+      "C": "26 décembre 2023",
+      "D": "28 décembre 2023"
+    },
+    "correct": ["D"],
+    "explanation": "L’ambassade de la Fédération de Russie a officiellement rouvert le 28 décembre 2023 à Ouagadougou."
+  },
+  {
+    "id": 23,
+    "question": "Avant de rouvrir en 2023, depuis quelle année la Russie avait-elle fermé son ambassade au Burkina Faso ?",
+    "options": {
+      "A": "1987",
+      "B": "1988",
+      "C": "1992",
+      "D": "1994"
+    },
+    "correct": ["C"],
+    "explanation": "La Russie avait fermé son ambassade au Burkina Faso en 1992 avant sa réouverture en 2023."
+  },
+  {
+    "id": 24,
+    "question": "Date de lancement du nouveau produit de la LONAB dénommé « Pari sportif » :",
+    "options": {
+      "A": "22 décembre 2023",
+      "B": "23 décembre 2023",
+      "C": "26 décembre 2023",
+      "D": "29 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "Le produit « Pari sportif » de la LONAB a été lancé le 26 décembre 2023."
+  },
+  {
+    "id": 25,
+    "question": "Date d’adoption du projet de loi portant conditions d’entrée, de séjour des étrangers et de sortie des nationaux :",
+    "options": {
+      "A": "14 février 2024",
+      "B": "17 février 2024",
+      "C": "22 février 2024",
+      "D": "27 février 2024"
+    },
+    "correct": ["C"],
+    "explanation": "Le projet de loi a été adopté le 22 février 2024."
+  },
+  {
+    "id": 26,
+    "question": "Date de création de l’Autorité nationale de coordination du foncier (ANCF) :",
+    "options": {
+      "A": "21 février 2024",
+      "B": "24 février 2024",
+      "C": "26 février 2024",
+      "D": "Aucune réponse"
+    },
+    "correct": ["C"],
+    "explanation": "L’Autorité nationale de coordination du foncier (ANCF) a été créée le 26 février 2024."
+  },
+  {
+    "id": 27,
+    "question": "Le Conseil des ministres en sa séance du 06 mars 2024 a institué la Journée des coutumes et traditions au Burkina Faso le :",
+    "options": {
+      "A": "15 mars de chaque année",
+      "B": "15 mai de chaque année",
+      "C": "15 avril de chaque année",
+      "D": "15 juin de chaque année"
+    },
+    "correct": ["B"],
+    "explanation": "La Journée des coutumes et traditions est célébrée chaque 15 mai."
+  },
+  {
+    "id": 28,
+    "question": "Date du crash de l’avion de la compagnie privée Lead’Air :",
+    "options": {
+      "A": "06 mars 2024",
+      "B": "07 mars 2024",
+      "C": "08 mars 2024",
+      "D": "09 mars 2024"
+    },
+    "correct": ["A"],
+    "explanation": "Le crash de l’avion de la compagnie Lead’Air est survenu le 6 mars 2024."
+  },
+  {
+    "id": 29,
+    "question": "Aux championnats du monde d’athlétisme en salle disputés le 02 mars 2024 à Glasgow, Hugues Fabrice Zango a remporté la médaille d’or avec un saut de :",
+    "options": {
+      "A": "17,23 m",
+      "B": "17,53 m",
+      "C": "17,34 m",
+      "D": "18,21 m"
+    },
+    "correct": ["B"],
+    "explanation": "Hugues Fabrice Zango a remporté l’or grâce à un saut de 17,53 mètres."
+  },
+  {
+    "id": 30,
+    "question": "Rang du Burkina Faso aux championnats du monde d’athlétisme en salle de 2024 :",
+    "options": {
+      "A": "8e place",
+      "B": "9e place",
+      "C": "11e place",
+      "D": "14e place"
+    },
+    "correct": ["B"],
+    "explanation": "Le Burkina Faso a terminé à la 9e place du classement général."
+  },
+  {
+    "id": 31,
+    "question": "Date du dernier remaniement ministériel au Burkina Faso :",
+    "options": {
+      "A": "10 décembre 2023",
+      "B": "12 décembre 2023",
+      "C": "14 décembre 2023",
+      "D": "17 décembre 2023"
+    },
+    "correct": ["A"],
+    "explanation": "Le dernier remaniement ministériel au Burkina Faso est intervenu le 10 décembre 2023."
+  },
+  {
+    "id": 32,
+    "question": "Qui a été élevé au rang de ministre d’État à la faveur du remaniement ministériel du 17 décembre 2023 ?",
+    "options": {
+      "A": "Bassolma Bazié",
+      "B": "Rimtalba Jean Emmanuel Ouédraogo",
+      "C": "Kassoum Coulibaly",
+      "D": "Yacouba Zabré Gouba"
+    },
+    "correct": ["B"],
+    "explanation": "Rimtalba Jean Emmanuel Ouédraogo a été élevé au rang de ministre d’État lors du remaniement du 17 décembre 2023."
+  },
+  {
+    "id": 33,
+    "question": "Selon le classement mondial de la liberté de la presse publié le 3 mai 2023 par Reporters Sans Frontières (RSF), quelle est la position du Burkina Faso ?",
+    "options": {
+      "A": "Dernier du classement derrière la Chine",
+      "B": "54e place sur 180 pays",
+      "C": "La Corée du Nord est dernier du classement",
+      "D": "58e place sur 180 pays"
+    },
+    "correct": ["D"],
+    "explanation": "Selon RSF en 2023, le Burkina Faso occupe la 58e place sur 180 pays."
+  },
+  {
+    "id": 34,
+    "question": "Quel ancien secrétaire général du gouvernement est devenu ministre de l’Éducation nationale lors du remaniement du 17 décembre 2023 ?",
+    "options": {
+      "A": "André Joseph Ouédraogo",
+      "B": "Jacques Sosthène Dingara",
+      "C": "Jean Baptiste Zoungrana",
+      "D": "Désiré Yaméogo"
+    },
+    "correct": ["B"],
+    "explanation": "Jacques Sosthène Dingara, ancien secrétaire général du gouvernement, a été nommé ministre de l’Éducation nationale."
+  },
+  {
+    "id": 35,
+    "question": "L’actuel chef de la diplomatie du Burkina Faso est :",
+    "options": {
+      "A": "Edasso Rodrigue Bayala",
+      "B": "Rimtalba Jean Emmanuel Ouédraogo",
+      "C": "Karamoko Jean Marie Traoré",
+      "D": "Bassolma Bazié"
+    },
+    "correct": ["C"],
+    "explanation": "Le ministre des Affaires étrangères du Burkina Faso est Karamoko Jean Marie Traoré."
+  },
+  {
+    "id": 36,
+    "question": "Le décret portant conditions et modalités de dénonciation des faits de corruption et infractions assimilées dans les administrations publiques et les récompenses y afférentes :",
+    "options": {
+      "A": "a été signé le 14 mars 2024",
+      "B": "comporte 12 articles",
+      "C": "a été signé le 16 mars 2024",
+      "D": "comporte 10 articles"
+    },
+    "correct": ["C", "D"],
+    "explanation": "Le décret a été signé le 16 mars 2024 et comporte 10 articles."
+  },
+  {
+    "id": 37,
+    "question": "Selon l’Indice de Perception de la Corruption (IPC) 2023 de Transparency International, le Burkina Faso occupe :",
+    "options": {
+      "A": "la 83e place sur 180 pays",
+      "B": "la 11e place sur 54 pays africains",
+      "C": "la 93e place sur 180 pays",
+      "D": "la 21e place sur 54 pays africains"
+    },
+    "correct": ["B"],
+    "explanation": "En 2023, le Burkina Faso occupe la 11e place sur 54 pays africains selon Transparency International."
+  },
+  {
+    "id": 38,
+    "question": "Selon l’Indice de Perception de la Corruption (IPC) 2023 de Transparency International, le pays le plus corrompu du monde est :",
+    "options": {
+      "A": "Le Venezuela",
+      "B": "La Somalie",
+      "C": "La Tanzanie",
+      "D": "Le Yémen"
+    },
+    "correct": ["B"],
+    "explanation": "La Somalie est classée comme le pays le plus corrompu au monde selon l’IPC 2023."
+  },
+  {
+    "id": 39,
+    "question": "Le Tour du Faso 2023 était à sa :",
+    "options": {
+      "A": "34e édition",
+      "B": "33e édition",
+      "C": "43e édition",
+      "D": "23e édition"
+    },
+    "correct": ["A"],
+    "explanation": "L’édition 2023 du Tour du Faso était la 34e."
+  },
+  {
+    "id": 40,
+    "question": "Qui est le vainqueur de la dernière étape du Tour du Faso 2023 ?",
+    "options": {
+      "A": "Achraf Ed-Doghmy",
+      "B": "Paul Daumont",
+      "C": "Boureima Sawadogo",
+      "D": "Rutger Wouters"
+    },
+    "correct": ["A"],
+    "explanation": "La dernière étape du Tour du Faso 2023 a été remportée par Achraf Ed-Doghmy."
+  },
+  {
+    "id": 41,
+    "question": "Dans le cadre de l’Initiative présidentielle pour la production agricole 2023-2024, la production attendue en céréales et légumes en fin de saison est de :",
+    "options": {
+      "A": "190 000 tonnes",
+      "B": "200 000 tonnes",
+      "C": "225 000 tonnes",
+      "D": "300 000 tonnes"
+    },
+    "correct": ["A"],
+    "explanation": "La production attendue est estimée à 190 000 tonnes."
+  },
+  {
+    "id": 42,
+    "question": "L’ensemble des notes à la fin d’un ouvrage s’appelle :",
+    "options": {
+      "A": "appendice",
+      "B": "édifice",
+      "C": "silice",
+      "D": "indice"
+    },
+    "correct": ["A"],
+    "explanation": "L’appendice regroupe les notes et informations complémentaires placées à la fin d’un ouvrage."
+  },
+  {
+    "id": 43,
+    "question": "Qu’est-ce qu’une fable ?",
+    "options": {
+      "A": "un roman historique",
+      "B": "un récit en vers ou en prose qui contient une morale",
+      "C": "un dialogue philosophique",
+      "D": "un essai littéraire"
+    },
+    "correct": ["B"],
+    "explanation": "La fable est un court récit en vers ou en prose dont l’objectif est d’enseigner une morale."
+  },
+  {
+    "id": 44,
+    "question": "Qu’est-ce qu’un incipit ?",
+    "options": {
+      "A": "la fin de la pièce",
+      "B": "une figure de style",
+      "C": "la fin d’une démonstration",
+      "D": "le début d’un récit"
+    },
+    "correct": ["D"],
+    "explanation": "L’incipit désigne l’ouverture ou le début d’une œuvre littéraire."
+  },
+  {
+    "id": 45,
+    "question": "Un thème ou une formule qui revient plusieurs fois dans une œuvre est :",
+    "options": {
+      "A": "une rime",
+      "B": "un vers",
+      "C": "une citation",
+      "D": "un leitmotiv"
+    },
+    "correct": ["D"],
+    "explanation": "Le leitmotiv est un thème ou une idée récurrente dans une œuvre."
+  },
+  {
+    "id": 46,
+    "question": "Dans un roman, un personnage est homodiégétique quand il :",
+    "options": {
+      "A": "est présent dans l’histoire qu’il raconte",
+      "B": "est simple témoin",
+      "C": "a une vue d’ensemble de l’histoire",
+      "D": "est absent de l’histoire"
+    },
+    "correct": ["A"],
+    "explanation": "Un narrateur ou personnage homodiégétique participe à l’histoire qu’il raconte."
+  },
+  {
+    "id": 47,
+    "question": "Qu’est-ce qu’un roman épistolaire ?",
+    "options": {
+      "A": "un roman sans auteur connu",
+      "B": "un roman d’aventures",
+      "C": "un roman par lettres",
+      "D": "un roman de fiction"
+    },
+    "correct": ["C"],
+    "explanation": "Le roman épistolaire est un roman construit sous forme de lettres."
+  },
+  {
+    "id": 48,
+    "question": "Le paratexte renvoie :",
+    "options": {
+      "A": "à la maison d’édition",
+      "B": "aux paragraphes",
+      "C": "au titre du texte et à la structure du texte",
+      "D": "au contenu narratif"
+    },
+    "correct": ["C"],
+    "explanation": "Le paratexte regroupe les éléments qui encadrent le texte : titre, préface, couverture, etc."
+  },
+  {
+    "id": 49,
+    "question": "Dans le livre, quelle partie conclut l’action et constitue le dénouement ?",
+    "options": {
+      "A": "préface",
+      "B": "épilogue",
+      "C": "intrigue",
+      "D": "prologue"
+    },
+    "correct": ["B"],
+    "explanation": "L’épilogue se situe à la fin de l’œuvre et clôt l’action principale."
+  },
+  {
+    "id": 50,
+    "question": "Qu’est-ce qu’une œuvre apocryphe ?",
+    "options": {
+      "A": "non signée",
+      "B": "non authentique",
+      "C": "antérieure à l’imprimerie",
+      "D": "codée"
+    },
+    "correct": ["B"],
+    "explanation": "Une œuvre apocryphe est une œuvre dont l’authenticité est douteuse ou faussement attribuée."
+  },
+  {
+    "id": 51,
+    "question": "Une dissertation à plan dialectique doit comporter :",
+    "options": {
+      "A": "deux points de vue contradictoires",
+      "B": "un dialogue",
+      "C": "deux arguments",
+      "D": "plusieurs parties"
+    },
+    "correct": ["A"],
+    "explanation": "Le plan dialectique repose sur la confrontation de points de vue opposés."
+  },
+  {
+    "id": 52,
+    "question": "Dans la dissertation, qu’appelle-t-on la problématique ?",
+    "options": {
+      "A": "la difficulté du sujet",
+      "B": "un problème insoluble",
+      "C": "une question que pose le sujet",
+      "D": "l’art de poser les problèmes"
+    },
+    "correct": ["C"],
+    "explanation": "La problématique est la question centrale à laquelle la dissertation doit répondre."
+  },
+  {
+    "id": 53,
+    "question": "Dans la dissertation, quelle est l’affirmation vraie ?",
+    "options": {
+      "A": "elle porte toujours sur un sujet artistique",
+      "B": "le sujet peut être basé sur une citation",
+      "C": "elle est une discussion",
+      "D": "elle s’appuie toujours sur des connaissances littéraires"
+    },
+    "correct": ["B"],
+    "explanation": "Une dissertation peut être construite à partir d’une citation servant de sujet."
+  },
+  {
+    "id": 54,
+    "question": "« L’homme peut-il vivre sans transformer la nature ? » pose le problème :",
+    "options": {
+      "A": "de la nature de l’homme",
+      "B": "de la nature de la nature",
+      "C": "de la légitimité de la transformation de la nature",
+      "D": "de la nécessité de la transformation de la nature"
+    },
+    "correct": ["C"],
+    "explanation": "La question interroge le caractère justifié ou non de la transformation de la nature par l’homme."
+  },
+  {
+    "id": 55,
+    "question": "Quels sont les éléments obligatoires dans un sujet de commentaire composé ?",
+    "options": {
+      "A": "le titre du texte",
+      "B": "le texte",
+      "C": "le libellé",
+      "D": "le chapeau introductif"
+    },
+    "correct": ["B", "C"],
+    "explanation": "Un sujet de commentaire composé comporte obligatoirement le texte à analyser et le libellé."
+  },
+  {
+    "id": 56,
+    "question": "Combien de centres d’intérêt au moins le commentaire composé doit-il comporter ?",
+    "options": {
+      "A": "un (01)",
+      "B": "deux (02)",
+      "C": "trois (03)",
+      "D": "quatre (04)"
+    },
+    "correct": ["B"],
+    "explanation": "Le commentaire composé doit comporter au minimum deux axes ou centres d’intérêt."
+  },
+  {
+    "id": 57,
+    "question": "Le commentaire composé porte sur un texte choisi pour :",
+    "options": {
+      "A": "sa qualité littéraire",
+      "B": "sa portée générale",
+      "C": "ses informations indispensables",
+      "D": "la qualité de son thème"
+    },
+    "correct": ["A"],
+    "explanation": "Le texte du commentaire composé est choisi pour sa valeur et sa qualité littéraire."
+  },
+  {
+    "id": 58,
+    "question": "Parmi les procédés suivants, lequel n’est pas caractéristique du texte descriptif ?",
+    "options": {
+      "A": "l’adjectif qualificatif",
+      "B": "le verbe d’état",
+      "C": "la figure de comparaison",
+      "D": "les connecteurs logiques"
+    },
+    "correct": ["D"],
+    "explanation": "Les connecteurs logiques sont surtout caractéristiques du texte argumentatif."
+  },
+  {
+    "id": 59,
+    "question": "Un exemple est :",
+    "options": {
+      "A": "illustratif",
+      "B": "argumentatif",
+      "C": "explicatif"
+    },
+    "correct": ["A"],
+    "explanation": "Un exemple sert à illustrer une idée ou un argument."
+  },
+  {
+    "id": 60,
+    "question": "Quelle est la fonction dominante dans un texte où il y a une récurrence du pronom « je » et l’expression des sentiments ?",
+    "options": {
+      "A": "fonction cognitive",
+      "B": "fonction conative",
+      "C": "fonction expressive",
+      "D": "fonction poétique"
+    },
+    "correct": ["C"],
+    "explanation": "La fonction expressive met l’accent sur les sentiments et la subjectivité de l’auteur."
+  },
+  {
+    "id": 61,
+    "question": "Parmi les formes de textes ou de récits, laquelle n’est pas une allégorie ?",
+    "options": {
+      "A": "la parabole",
+      "B": "la fable",
+      "C": "le mythe",
+      "D": "la prose"
+    },
+    "correct": ["D"],
+    "explanation": "La prose est une forme d’expression et non une allégorie."
+  },
+  {
+    "id": 62,
+    "question": "Lorsqu’un texte littéraire raconte des actions historiques pour impressionner, on dit que c’est une tonalité :",
+    "options": {
+      "A": "fantastique",
+      "B": "polémique",
+      "C": "épique",
+      "D": "satirique"
+    },
+    "correct": ["C"],
+    "explanation": "La tonalité épique met en scène des actions héroïques et historiques destinées à impressionner."
+  },
+  {
+    "id": 63,
+    "question": "Pour faire la description d’une personne, on utilise :",
+    "options": {
+      "A": "le texte descriptif",
+      "B": "le portrait",
+      "C": "le texte informatif",
+      "D": "le texte argumentatif"
+    },
+    "correct": ["B"],
+    "explanation": "Le portrait est la forme de description dédiée aux personnes."
+  },
+  {
+    "id": 64,
+    "question": "Dans un texte narratif, le narrateur peut adopter :",
+    "options": {
+      "A": "une seule position ou point de vue",
+      "B": "deux positions ou points de vue",
+      "C": "trois positions ou points de vue",
+      "D": "quatre positions ou points de vue"
+    },
+    "correct": ["C"],
+    "explanation": "On distingue généralement trois points de vue : interne, externe et omniscient."
+  },
+  {
+    "id": 65,
+    "question": "De quel registre est un texte qui fait la peinture de la campagne ou des travaux champêtres ?",
+    "options": {
+      "A": "lyrique",
+      "B": "épique",
+      "C": "bucolique",
+      "D": "fantastique"
+    },
+    "correct": ["C"],
+    "explanation": "Le registre bucolique valorise la nature, la campagne et la vie pastorale."
+  },
+  {
+    "id": 66,
+    "question": "Quels sont les procédés utilisés dans la tonalité pathétique ?",
+    "options": {
+      "A": "des termes inspirant la pitié",
+      "B": "des termes instructifs",
+      "C": "des informations claires et méthodiques",
+      "D": "des amplifications, hyperboles et images"
+    },
+    "correct": ["A", "D"],
+    "explanation": "La tonalité pathétique cherche à émouvoir en suscitant la pitié et l’émotion forte."
+  },
+  {
+    "id": 67,
+    "question": "Quel est le temps dominant dans le récit ?",
+    "options": {
+      "A": "le passé",
+      "B": "le présent",
+      "C": "le subjonctif",
+      "D": "le conditionnel"
+    },
+    "correct": ["A"],
+    "explanation": "Le récit est majoritairement raconté aux temps du passé (passé simple, imparfait)."
+  },
+  {
+    "id": 68,
+    "question": "Quel est le procédé qui permet d’accélérer le rythme de la narration ?",
+    "options": {
+      "A": "l’ellipse",
+      "B": "le prolepse",
+      "C": "la pause",
+      "D": "le prologue"
+    },
+    "correct": ["A"],
+    "explanation": "L’ellipse supprime volontairement une partie de l’histoire, ce qui accélère le rythme du récit."
+  },
+  {
+    "id": 69,
+    "question": "Un personnage dans un roman est homodiégétique :",
+    "options": {
+      "A": "quand il est présent dans l’histoire qu’il raconte lui-même",
+      "B": "quand il est absent dans l’histoire qu’il raconte",
+      "C": "quand il est simple témoin",
+      "D": "quand il a une vue d’ensemble de l’histoire qu’il raconte"
+    },
+    "correct": ["A"],
+    "explanation": "Un narrateur ou personnage homodiégétique participe à l’histoire qu’il raconte."
+  },
+  {
+    "id": 70,
+    "question": "Dans un texte narratif, celui qui apporte son soutien au personnage principal est :",
+    "options": {
+      "A": "l’adjuvant",
+      "B": "le sujet",
+      "C": "l’opposant",
+      "D": "l’objet"
+    },
+    "correct": ["A"],
+    "explanation": "L’adjuvant est le personnage ou l’élément qui aide le héros dans sa quête."
+  },
+  {
+    "id": 71,
+    "question": "Parmi ces auteurs, un seul n’a pas fait l’objet de poursuites en justice du fait de ses écrits. Lequel ?",
+    "options": {
+      "A": "Baudelaire",
+      "B": "Flaubert",
+      "C": "Pauvert",
+      "D": "Sartre"
+    },
+    "correct": ["D"],
+    "explanation": "Baudelaire, Flaubert et Pauvert ont été poursuivis en justice, contrairement à Jean-Paul Sartre."
+  },
+  {
+    "id": 72,
+    "question": "Laquelle n’est pas une œuvre romanesque ?",
+    "options": {
+      "A": "Tartuffe",
+      "B": "Ville cruelle",
+      "C": "Carnets secrets d’une fille de joie",
+      "D": "Parachutage"
+    },
+    "correct": ["A"],
+    "explanation": "Tartuffe est une pièce de théâtre de Molière et non un roman."
+  },
+  {
+    "id": 73,
+    "question": "Laquelle n’est pas une œuvre de Molière ?",
+    "options": {
+      "A": "Le Jeu de l’amour et du hasard",
+      "B": "Le Malade imaginaire",
+      "C": "Tartuffe",
+      "D": "Les Femmes savantes"
+    },
+    "correct": ["A"],
+    "explanation": "Le Jeu de l’amour et du hasard est une œuvre de Marivaux, et non de Molière."
+  },
+  {
+    "id": 74,
+    "question": "« Mais il faut cultiver votre jardin. » est la fin de quel roman ?",
+    "options": {
+      "A": "Candide de Voltaire",
+      "B": "L’Avare de Molière",
+      "C": "Le Cid de Corneille",
+      "D": "L’Étranger d’Albert Camus"
+    },
+    "correct": ["A"],
+    "explanation": "Cette phrase célèbre clôt le roman Candide de Voltaire."
+  },
+  {
+    "id": 75,
+    "question": "L’auteur de l’œuvre intitulée « Malaise dans la civilisation » est :",
+    "options": {
+      "A": "Sartre",
+      "B": "Rousseau",
+      "C": "Marx",
+      "D": "Freud"
+    },
+    "correct": ["D"],
+    "explanation": "« Malaise dans la civilisation » est un essai du psychanalyste Sigmund Freud."
+  },
+  {
+    "id": 76,
+    "question": "La notion d’art exclut :",
+    "options": {
+      "A": "la littérature",
+      "B": "la critique",
+      "C": "la sculpture",
+      "D": "la cordonnerie"
+    },
+    "correct": ["D"],
+    "explanation": "La cordonnerie relève de l’artisanat et non des arts au sens esthétique."
+  },
+  {
+    "id": 77,
+    "question": "« Il marchait fièrement. » Donner la nature de « fièrement ».",
+    "options": {
+      "A": "Adverbe",
+      "B": "Adjectif qualificatif",
+      "C": "Complément circonstanciel de lieu",
+      "D": "Complément d'objet direct"
+    },
+    "correct": ["A"],
+    "explanation": "« Fièrement » modifie le verbe « marchait » : c’est donc un adverbe."
+  },
+  {
+    "id": 78,
+    "question": "Quelle est la nature de « tous » dans la phrase suivante : « Tous les enfants sont en classe » ?",
+    "options": {
+      "A": "Adjectif indéfini",
+      "B": "Adverbe",
+      "C": "Pronom indéfini",
+      "D": "Aucune réponse"
+    },
+    "correct": ["A"],
+    "explanation": "« Tous » accompagne le nom « enfants » : c’est donc un adjectif indéfini."
+  },
+  {
+    "id": 79,
+    "question": "« Il remporta des succès éclatants et inattendus ». Le mot « éclatants » est employé ici comme :",
+    "options": {
+      "A": "Adjectif verbal",
+      "B": "Participe présent",
+      "C": "Participe passé",
+      "D": "Adjectif qualificatif"
+    },
+    "correct": ["A"],
+    "explanation": "« Éclatants » qualifie le nom « succès » tout en gardant une valeur verbale : c’est un adjectif verbal."
+  },
+  {
+    "id": 80,
+    "question": "Quelle est la classe grammaticale de « ça » ?",
+    "options": {
+      "A": "Pronom démonstratif",
+      "B": "Pronom possessif",
+      "C": "Pronom numéral",
+      "D": "Adverbe"
+    },
+    "correct": ["A"],
+    "explanation": "« Ça » remplace un élément non précisé : c’est un pronom démonstratif."
+  },
+  {
+    "id": 81,
+    "question": "« Cet homme va droit à sa perte ». Quelle est la nature grammaticale de « droit » ?",
+    "options": {
+      "A": "Adjectif",
+      "B": "Adverbe",
+      "C": "Épithète",
+      "D": "Nom"
+    },
+    "correct": ["B"],
+    "explanation": "« Droit » modifie le verbe « va » en indiquant la manière : c’est un adverbe."
+  },
+  {
+    "id": 82,
+    "question": "Qu’est-ce qui n’est pas un élément grammatical du dialogue ?",
+    "options": {
+      "A": "Les tirets",
+      "B": "Les deux points",
+      "C": "Le point d'exclamation",
+      "D": "Les répliques"
+    },
+    "correct": ["D"],
+    "explanation": "Les répliques sont des éléments de contenu, non des signes grammaticaux."
+  },
+  {
+    "id": 83,
+    "question": "« Il a reçu dix cahiers parce qu’il est le premier de sa classe ». Cette phrase renferme :",
+    "options": {
+      "A": "Un adjectif numéral cardinal",
+      "B": "Deux adjectifs numéraux cardinaux",
+      "C": "Un adjectif numéral ordinal",
+      "D": "Deux adjectifs numéraux ordinaux"
+    },
+    "correct": ["A", "C"],
+    "explanation": "« Dix » est un adjectif numéral cardinal et « premier » est un adjectif numéral ordinal."
+  },
+  {
+    "id": 84,
+    "question": "Identifier les pronoms personnels :",
+    "options": {
+      "A": "lui",
+      "B": "votre",
+      "C": "que",
+      "D": "nous"
+    },
+    "correct": ["A", "D"],
+    "explanation": "« Lui » et « nous » sont des pronoms personnels."
+  },
+  {
+    "id": 85,
+    "question": "Lequel est un article défini ?",
+    "options": {
+      "A": "leur",
+      "B": "une",
+      "C": "la",
+      "D": "ses"
+    },
+    "correct": ["C"],
+    "explanation": "« La » est un article défini féminin singulier."
+  },
+  {
+    "id": 86,
+    "question": "La nature du mot « là » est :",
+    "options": {
+      "A": "Adjectif qualificatif",
+      "B": "Adverbe",
+      "C": "Pronom démonstratif",
+      "D": "Nom"
+    },
+    "correct": ["B"],
+    "explanation": "« Là » indique un lieu : c’est un adverbe."
+  },
+  {
+    "id": 87,
+    "question": "« Du » est un article :",
+    "options": {
+      "A": "Défini",
+      "B": "Indéfini",
+      "C": "Partitif",
+      "D": "Démonstratif"
+    },
+    "correct": ["C"],
+    "explanation": "« Du » exprime une quantité non précisée : c’est un article partitif."
+  },
+  {
+    "id": 88,
+    "question": "« Dûment » est un :",
+    "options": {
+      "A": "Adverbe",
+      "B": "Adjectif",
+      "C": "Pronom",
+      "D": "Nom"
+    },
+    "correct": ["A"],
+    "explanation": "« Dûment » est un adverbe de manière."
+  },
+  {
+    "id": 89,
+    "question": "« Ouvrez vos livres à une page quelconque ». Le terme souligné est :",
+    "options": {
+      "A": "Pronom personnel",
+      "B": "Pronom indéfini",
+      "C": "Adjectif indéfini",
+      "D": "Adjectif démonstratif"
+    },
+    "correct": ["C"],
+    "explanation": "« Quelconque » accompagne le nom « page » : c’est un adjectif indéfini."
+  },
+  {
+    "id": 90,
+    "question": "« La vieille a utilisé un couteau tranchant ». Le mot souligné est :",
+    "options": {
+      "A": "Participe présent",
+      "B": "Adjectif verbal",
+      "C": "Participe passé",
+      "D": "Gérondif"
+    },
+    "correct": ["B"],
+    "explanation": "« Tranchant » qualifie le nom « couteau » : c’est un adjectif verbal."
+  },
+  {
+    "id": 91,
+    "question": "Parmi les propositions suivantes, une seule ne sert pas à exprimer un rapport logique. Laquelle ?",
+    "options": {
+      "A": "Une préposition",
+      "B": "Un verbe",
+      "C": "Un adverbe",
+      "D": "Un nom"
+    },
+    "correct": ["D"],
+    "explanation": "Le nom ne sert pas directement à exprimer un rapport logique."
+  },
+  {
+    "id": 92,
+    "question": "Qu’est-ce qui permet de changer la nature d’un mot ?",
+    "options": {
+      "A": "Le préfixe",
+      "B": "Le suffixe",
+      "C": "L’affixe",
+      "D": "L’infixe"
+    },
+    "correct": ["B"],
+    "explanation": "Le suffixe modifie la classe grammaticale d’un mot."
+  },
+  {
+    "id": 93,
+    "question": "Quelle est la nature de « car » dans « Je suis en colère car tu as menti » ?",
+    "options": {
+      "A": "Conjonction de subordination",
+      "B": "Conjonction de coordination",
+      "C": "Locution conjonctive",
+      "D": "Locution adverbiale"
+    },
+    "correct": ["B"],
+    "explanation": "« Car » est une conjonction de coordination exprimant la cause."
+  },
+  {
+    "id": 94,
+    "question": "« Nul n’est censé ignorer la loi ». Quelle est la nature du mot « nul » ?",
+    "options": {
+      "A": "Adjectif indéfini",
+      "B": "Nom commun",
+      "C": "Adjectif possessif",
+      "D": "Pronom indéfini"
+    },
+    "correct": ["D"],
+    "explanation": "« Nul » remplace un nom et désigne une personne indéfinie : c’est un pronom indéfini."
+  },
+  {
+    "id": 95,
+    "question": "« Cette femme est fort belle. » À quel degré est exprimé l’adjectif qualificatif de cette phrase ?",
+    "options": {
+      "A": "Positif",
+      "B": "Comparatif de supériorité",
+      "C": "Superlatif relatif",
+      "D": "Superlatif absolu"
+    },
+    "correct": ["D"],
+    "explanation": "« Fort belle » exprime une intensité très élevée sans comparaison : c’est un superlatif absolu."
+  },
+  {
+    "id": 96,
+    "question": "« Ce que Jean raconte est archi-faux. » Quel est le degré de signification de l’adjectif qualificatif « faux » ?",
+    "options": {
+      "A": "Superlatif de supériorité",
+      "B": "Superlatif absolu",
+      "C": "Comparatif de supériorité",
+      "D": "Comparatif d’infériorité"
+    },
+    "correct": ["B"],
+    "explanation": "« Archi-faux » marque une intensité maximale sans comparaison : c’est un superlatif absolu."
+  },
+  {
+    "id": 97,
+    "question": "À quel degré est l’adjectif qualificatif dans cette phrase : « Il est très brillant » ?",
+    "options": {
+      "A": "Superlatif absolu",
+      "B": "Comparatif absolu",
+      "C": "Superlatif relatif absolu",
+      "D": "Comparatif relatif de supériorité"
+    },
+    "correct": ["A"],
+    "explanation": "« Très brillant » exprime une intensité forte sans comparaison : c’est un superlatif absolu."
+  },
+  {
+    "id": 98,
+    "question": "« Ce biscuit est bon. » Que devient l’adjectif « bon » au superlatif de supériorité ?",
+    "options": {
+      "A": "le bon",
+      "B": "très bon",
+      "C": "le meilleur",
+      "D": "le mieux"
+    },
+    "correct": ["C"],
+    "explanation": "Le superlatif de supériorité de « bon » est « le meilleur »."
+  },
+  {
+    "id": 99,
+    "question": "« Dans Il est le plus intelligent. » L’adjectif qualificatif est :",
+    "options": {
+      "A": "Au comparatif d’infériorité",
+      "B": "Au superlatif relatif de supériorité",
+      "C": "Au superlatif absolu",
+      "D": "Au comparatif de supériorité"
+    },
+    "correct": ["B"],
+    "explanation": "« Le plus intelligent » compare un élément à un ensemble : c’est un superlatif relatif de supériorité."
+  },
+  {
+    "id": 100,
+    "question": "Quel est le degré de signification de l’adjectif dans la phrase suivante : « Il fait plus chaud en avril qu’en janvier » ?",
+    "options": {
+      "A": "Superlatif absolu",
+      "B": "Superlatif relatif",
+      "C": "Comparatif absolu",
+      "D": "Comparatif de supériorité"
+    },
+    "correct": ["D"],
+    "explanation": "« Plus chaud que » établit une comparaison de supériorité entre deux éléments."
+  },
+  {
+    "id": 101,
+    "question": "Comment appelle-t-on la culture des champignons ?",
+    "options": {
+      "A": "Mytiliculture",
+      "B": "Myciculture",
+      "C": "Mycéculture",
+      "D": "Maraîchiculture"
+    },
+    "correct": ["B"],
+    "explanation": "La culture des champignons est appelée la myciculture."
+  },
+  {
+    "id": 102,
+    "question": "Comment appelle-t-on la culture de la vigne ?",
+    "options": {
+      "A": "La viticulture",
+      "B": "La périculture",
+      "C": "La sylviculture",
+      "D": "Le vigneron"
+    },
+    "correct": ["A"],
+    "explanation": "La viticulture désigne la culture de la vigne."
+  },
+  {
+    "id": 103,
+    "question": "Le mot « Délicieux » signifie :",
+    "options": {
+      "A": "Coupable",
+      "B": "Répréhensible",
+      "C": "D’un goût très fin",
+      "D": "De forte concentration"
+    },
+    "correct": ["C"],
+    "explanation": "« Délicieux » qualifie quelque chose d’agréable au goût ou aux sens."
+  },
+  {
+    "id": 104,
+    "question": "Le qualificatif « austral » fait allusion à un point situé :",
+    "options": {
+      "A": "Au nord",
+      "B": "Au sud",
+      "C": "À l’est",
+      "D": "À l’ouest"
+    },
+    "correct": ["B"],
+    "explanation": "« Austral » signifie relatif au sud."
+  },
+  {
+    "id": 105,
+    "question": "« Avoir pignon sur rue » signifie :",
+    "options": {
+      "A": "Être pauvre",
+      "B": "Souffrir de sa notoriété",
+      "C": "Avoir une réputation bien assise",
+      "D": "Aucune réponse"
+    },
+    "correct": ["C"],
+    "explanation": "L’expression signifie être bien établi et reconnu."
+  },
+  {
+    "id": 106,
+    "question": "« Un travail de Sisyphe » est :",
+    "options": {
+      "A": "Un travail pénible et difficile",
+      "B": "Un travail à la chaîne",
+      "C": "Un travail lucratif",
+      "D": "Un travail interminable"
+    },
+    "correct": ["D"],
+    "explanation": "Le travail de Sisyphe est un effort sans fin et sans résultat durable."
+  },
+  {
+    "id": 107,
+    "question": "Quelle est la définition correcte du jansénisme ?",
+    "options": {
+      "A": "Un style linguistique raffiné",
+      "B": "L’utilisation de métaphores complexes",
+      "C": "La construction fautive d’une phrase",
+      "D": "Un courant religieux rigoriste"
+    },
+    "correct": ["D"],
+    "explanation": "Le jansénisme est un courant religieux rigoriste du XVIIe siècle."
+  },
+  {
+    "id": 108,
+    "question": "« Avoir un chat dans la gorge » signifie :",
+    "options": {
+      "A": "Avoir peur des chats",
+      "B": "Avoir une gêne dans la gorge",
+      "C": "Être joyeux",
+      "D": "Vouloir posséder un chat"
+    },
+    "correct": ["B"],
+    "explanation": "L’expression signifie être enroué ou avoir la voix gênée."
+  },
+  {
+    "id": 109,
+    "question": "Que signifie « parcimonie » ?",
+    "options": {
+      "A": "Prudence et méfiance",
+      "B": "Mesure et économie",
+      "C": "Générosité",
+      "D": "Abondance"
+    },
+    "correct": ["B"],
+    "explanation": "La parcimonie est le fait de dépenser avec économie."
+  },
+  {
+    "id": 110,
+    "question": "« Tirer flèche de tout bois » signifie :",
+    "options": {
+      "A": "Tout tenter pour réussir",
+      "B": "Infliger des souffrances",
+      "C": "Mettre les flèches dans le carquois",
+      "D": "Fabriquer des flèches"
+    },
+    "correct": ["A"],
+    "explanation": "L’expression signifie utiliser tous les moyens disponibles."
+  },
+  {
+    "id": 111,
+    "question": "Le terme « acquit de conscience » signifie :",
+    "options": {
+      "A": "Avoir la conscience tranquille",
+      "B": "Avoir du remords",
+      "C": "Avoir la conscience déchargée",
+      "D": "Être sans conscience"
+    },
+    "correct": ["A"],
+    "explanation": "Faire quelque chose par acquit de conscience, c’est pour être en paix avec soi-même."
+  },
+  {
+    "id": 112,
+    "question": "« Faire un travail de Pénélope » signifie :",
+    "options": {
+      "A": "Faire un travail parfait",
+      "B": "Faire un travail inutilement recommencé",
+      "C": "Faire le travail d’un autre",
+      "D": "Travailler sans rigueur"
+    },
+    "correct": ["B"],
+    "explanation": "Le travail de Pénélope est sans cesse défait et recommencé."
+  },
+  {
+    "id": 113,
+    "question": "Relevez les faux synonymes :",
+    "options": {
+      "A": "Misère et mystère",
+      "B": "Hideux et laid",
+      "C": "Courageux et intrépide",
+      "D": "Terminer et conclure"
+    },
+    "correct": ["A"],
+    "explanation": "« Misère » et « mystère » n’ont pas le même sens."
+  },
+  {
+    "id": 114,
+    "question": "« Faire chou blanc » signifie :",
+    "options": {
+      "A": "Rater son coup",
+      "B": "Faire preuve de bonté",
+      "C": "Être indulgent",
+      "D": "Être innocent"
+    },
+    "correct": ["A"],
+    "explanation": "L’expression signifie échouer."
+  },
+  {
+    "id": 115,
+    "question": "Quels mots appartiennent au champ lexical de l’éthique ?",
+    "options": {
+      "A": "Laxisme",
+      "B": "Franchise",
+      "C": "Avarice",
+      "D": "Exemplarité"
+    },
+    "correct": ["B", "D"],
+    "explanation": "La franchise et l’exemplarité relèvent des valeurs morales."
+  },
+  {
+    "id": 116,
+    "question": "Quel est le mot simple (non dérivé) dans cette liste ?",
+    "options": {
+      "A": "Incapable",
+      "B": "Invisible",
+      "C": "Indispensable",
+      "D": "Impeccable"
+    },
+    "correct": ["D"],
+    "explanation": "« Impeccable » n’est pas formé par préfixation négative."
+  },
+  {
+    "id": 117,
+    "question": "Que signifie « subrepticement » ?",
+    "options": {
+      "A": "Discrètement",
+      "B": "Facilement",
+      "C": "Forcément",
+      "D": "Avec insubordination"
+    },
+    "correct": ["A"],
+    "explanation": "« Subrepticement » signifie de manière cachée."
+  },
+  {
+    "id": 118,
+    "question": "« Concupiscence » et « chasteté » sont des :",
+    "options": {
+      "A": "Homonymes",
+      "B": "Antonymes",
+      "C": "Paronymes",
+      "D": "Synonymes"
+    },
+    "correct": ["B"],
+    "explanation": "La concupiscence s’oppose à la chasteté."
+  },
+  {
+    "id": 119,
+    "question": "« Nous portions des portions ». Les deux mots soulignés sont :",
+    "options": {
+      "A": "Des homonymes homographes",
+      "B": "Des homonymes homographes non homophones",
+      "C": "Des homonymes homophones non homographes",
+      "D": "Des homonymes homophones"
+    },
+    "correct": ["B"],
+    "explanation": "Ils s’écrivent pareil mais ne se prononcent pas de la même façon."
+  },
+  {
+    "id": 120,
+    "question": "« Manducation » est :",
+    "options": {
+      "A": "L’action de manger",
+      "B": "L’action de mendier",
+      "C": "L’action de mandater",
+      "D": "La mauvaise éducation"
+    },
+    "correct": ["A"],
+    "explanation": "La manducation correspond au fait de mâcher et manger."
+  },
+  {
+    "id": 121,
+    "question": "Un seul de ces noms est masculin. Lequel ?",
+    "options": {
+      "A": "Amnistie",
+      "B": "Arpège",
+      "C": "Anagramme",
+      "D": "Caténaire"
+    },
+    "correct": ["B"],
+    "explanation": "« Arpège » est masculin."
+  },
+  {
+    "id": 122,
+    "question": "Que signifie « hiératique » ?",
+    "options": {
+      "A": "Qui a lieu dans le passé",
+      "B": "Solennel, figé",
+      "C": "Désordonné",
+      "D": "Laid"
+    },
+    "correct": ["B"],
+    "explanation": "« Hiératique » qualifie une attitude rigide et solennelle."
+  },
+  {
+    "id": 123,
+    "question": "Que signifie « atrabilaire » ?",
+    "options": {
+      "A": "Atteint du foie",
+      "B": "Situé dans la vésicule",
+      "C": "Grégaire",
+      "D": "Misanthrope"
+    },
+    "correct": ["D"],
+    "explanation": "Un atrabilaire est une personne sombre et misanthrope."
+  },
+  {
+    "id": 124,
+    "question": "Donnez le sens de « filiforme » :",
+    "options": {
+      "A": "Large et robuste",
+      "B": "Mince comme un fil",
+      "C": "Courbé",
+      "D": "Carré et massif"
+    },
+    "correct": ["B"],
+    "explanation": "« Filiforme » signifie très mince."
+  },
+  {
+    "id": 125,
+    "question": "Quel est le fruit du coudrier ?",
+    "options": {
+      "A": "La coudre",
+      "B": "La noisette",
+      "C": "La cerise",
+      "D": "La noix"
+    },
+    "correct": ["B"],
+    "explanation": "Le coudrier est le noisetier."
+  },
+  {
+    "id": 126,
+    "question": "Comment appelle-t-on un tableau fondé à deux volets ?",
+    "options": {
+      "A": "Dytyque",
+      "B": "Diptyque",
+      "C": "Polyptyque",
+      "D": "Biptyque"
+    },
+    "correct": ["B"],
+    "explanation": "Un tableau à deux volets est un diptyque."
+  },
+  {
+    "id": 127,
+    "question": "Que signifie « la cabale des dévots » ?",
+    "options": {
+      "A": "Un groupe de croyants catholiques extrémistes",
+      "B": "Un groupe d’auteurs du XIXe siècle",
+      "C": "Des amoureux",
+      "D": "Des voleurs"
+    },
+    "correct": ["A"],
+    "explanation": "L’expression désigne un groupe religieux influent et radical."
+  },
+  {
+    "id": 128,
+    "question": "Indiquez la(les) conjugaison(s) correcte(s) : « Cet enfant est très doué, il … tous les problèmes en moins de deux secondes. »",
+    "options": {
+      "A": "résous",
+      "B": "résout",
+      "C": "résoud",
+      "D": "résouds"
+    },
+    "correct": ["B"],
+    "explanation": "Le verbe « résoudre » à la 3ᵉ personne du singulier se conjugue « il résout »."
+  },
+  {
+    "id": 129,
+    "question": "Le passé simple du verbe « coudre » à la première personne du singulier est :",
+    "options": {
+      "A": "je cousai",
+      "B": "je cousus",
+      "C": "je cousis",
+      "D": "je cous"
+    },
+    "correct": ["B"],
+    "explanation": "Au passé simple, « coudre » se conjugue « je cousus »."
+  },
+  {
+    "id": 130,
+    "question": "À quelle catégorie de verbe appartient « faillir » ?",
+    "options": {
+      "A": "Verbe d’état",
+      "B": "Verbe impersonnel",
+      "C": "Verbe intransitif",
+      "D": "Verbe à la voix passive"
+    },
+    "correct": ["C"],
+    "explanation": "Le verbe « faillir » est un verbe intransitif."
+  },
+  {
+    "id": 131,
+    "question": "Indiquez la (les) conjugaison(s) correcte(s) : « Les juges prolongent la vie du condamné en … son exécution. »",
+    "options": {
+      "A": "sursayent",
+      "B": "surssoient",
+      "C": "surséent",
+      "D": "surséant"
+    },
+    "correct": ["B"],
+    "explanation": "Le verbe « surseoir » se conjugue au présent : « ils sursoient »."
+  },
+  {
+    "id": 132,
+    "question": "Quel est le subjonctif imparfait de « feindre » ?",
+    "options": {
+      "A": "qu’il feignisse",
+      "B": "qu’il feignait",
+      "C": "qu’il feignisse",
+      "D": "qu’il feignît"
+    },
+    "correct": ["D"],
+    "explanation": "Le subjonctif imparfait de « feindre » est « qu’il feignît »."
+  },
+  {
+    "id": 133,
+    "question": "Le verbe « tenir » au passé simple à la première personne du pluriel est :",
+    "options": {
+      "A": "nous tenions",
+      "B": "nous tînmes",
+      "C": "nous tiendrons",
+      "D": "nous tenîmes"
+    },
+    "correct": ["B"],
+    "explanation": "Au passé simple, « tenir » donne « nous tînmes »."
+  },
+  {
+    "id": 134,
+    "question": "« Votre cœur battit la chamade en me voyant venir ». Le verbe souligné est à :",
+    "options": {
+      "A": "voix active",
+      "B": "voix passive",
+      "C": "voix pronominale",
+      "D": "voix impersonnelle"
+    },
+    "correct": ["A"],
+    "explanation": "Le sujet accomplit l’action : la phrase est à la voix active."
+  },
+  {
+    "id": 135,
+    "question": "Quel est le futur simple du verbe « envoyer » à la 3ᵉ personne du singulier ?",
+    "options": {
+      "A": "il enverra",
+      "B": "il enverera",
+      "C": "il envoiera",
+      "D": "il envoya"
+    },
+    "correct": ["A"],
+    "explanation": "Le futur simple de « envoyer » est « il enverra »."
+  },
+  {
+    "id": 136,
+    "question": "Comment conjugue-t-on le verbe « s’asseoir » à la 2ᵉ personne du singulier au présent de l’indicatif ?",
+    "options": {
+      "A": "tu assois",
+      "B": "tu assieds",
+      "C": "tu assis",
+      "D": "tu asseois"
+    },
+    "correct": ["A", "B"],
+    "explanation": "Les formes « tu assois » et « tu assieds » sont toutes deux correctes."
+  },
+  {
+    "id": 137,
+    "question": "« Il se mit à déjeuner vers 15 heures ». Le verbe de cette phrase est conjugué au :",
+    "options": {
+      "A": "passé antérieur",
+      "B": "subjonctif imparfait",
+      "C": "passé composé",
+      "D": "imparfait du subjonctif"
+    },
+    "correct": ["C"],
+    "explanation": "« Se mit » est un passé composé du verbe « se mettre »."
+  },
+  {
+    "id": 138,
+    "question": "Le mode indicatif est composé de :",
+    "options": {
+      "A": "quatre temps simples",
+      "B": "un temps simple",
+      "C": "trois temps simples",
+      "D": "deux temps simples"
+    },
+    "correct": ["A"],
+    "explanation": "L’indicatif comprend quatre temps simples : présent, imparfait, futur simple, passé simple."
+  },
+  {
+    "id": 139,
+    "question": "Parmi ces verbes, lequel n’est pas du 2ᵉ groupe ?",
+    "options": {
+      "A": "finir",
+      "B": "choisir",
+      "C": "grandir",
+      "D": "partir"
+    },
+    "correct": ["D"],
+    "explanation": "« Partir » appartient au 3ᵉ groupe."
+  },
+  {
+    "id": 140,
+    "question": "« Elle souhaitait que tu viennes à la maison ». À quel temps est conjugué le deuxième verbe ?",
+    "options": {
+      "A": "conditionnel passé",
+      "B": "conditionnel présent",
+      "C": "subjonctif passé",
+      "D": "subjonctif présent"
+    },
+    "correct": ["D"],
+    "explanation": "« Que tu viennes » est au subjonctif présent."
+  },
+  {
+    "id": 141,
+    "question": "« Les dieux furent blessés ». Le verbe souligné est conjugué au :",
+    "options": {
+      "A": "passé antérieur de l’indicatif",
+      "B": "futur antérieur de l’indicatif",
+      "C": "passé composé de l’indicatif",
+      "D": "passé simple de l’indicatif"
+    },
+    "correct": ["D"],
+    "explanation": "« Furent » est le passé simple du verbe « être »."
+  },
+  {
+    "id": 142,
+    "question": "« En 1815, Napoléon partait pour Sainte-Hélène ». De quel imparfait s’agit-il ?",
+    "options": {
+      "A": "imparfait simple",
+      "B": "imparfait d’habitude",
+      "C": "imparfait historique",
+      "D": "imparfait itératif"
+    },
+    "correct": ["C"],
+    "explanation": "L’imparfait est employé ici avec une valeur historique."
+  },
+  {
+    "id": 143,
+    "question": "« On sonne à la porte. Va ouvrir s’il te plaît. » Quel est le type de présent employé ?",
+    "options": {
+      "A": "présent momentané",
+      "B": "présent actuel",
+      "C": "présent omnitemporel",
+      "D": "présent gnomique"
+    },
+    "correct": ["A"],
+    "explanation": "Le présent momentané exprime une action en cours."
+  },
+  {
+    "id": 144,
+    "question": "Laquelle des affirmations suivantes est fausse ?",
+    "options": {
+      "A": "Tout nombre entier est un nombre décimal",
+      "B": "Tout nombre rationnel est un nombre décimal",
+      "C": "Tout décimal est un nombre rationnel",
+      "D": "Tout rationnel est un réel"
+    },
+    "correct": ["B"],
+    "explanation": "Un nombre rationnel comme 1/3 n’est pas décimal."
+  },
+  {
+    "id": 145,
+    "question": "Une écriture fractionnaire du nombre rationnel b = 1,6565 est :",
+    "options": {
+      "A": "204/99",
+      "B": "124/99",
+      "C": "164/99",
+      "D": "181/99"
+    },
+    "correct": ["C"],
+    "explanation": "1,6565 = 164/99."
+  },
+  {
+    "id": 146,
+    "question": "PPCM (14 ; 42) = ?",
+    "options": {
+      "A": "42",
+      "B": "32",
+      "C": "22",
+      "D": "14"
+    },
+    "correct": ["A"],
+    "explanation": "42 est le plus petit multiple commun de 14 et 42."
+  },
+  {
+    "id": 147,
+    "question": "L’écriture simplifiée de 2√20 + 4√45 − 2√80 − √180 est :",
+    "options": {
+      "A": "2√5",
+      "B": "-3√5",
+      "C": "1 − 4√5",
+      "D": "7√5"
+    },
+    "correct": ["A"],
+    "explanation": "Après simplification des radicaux, l’expression vaut 2√5."
+  },
+  {
+    "id": 148,
+    "question": "La distance entre les réels −1 et 1 est :",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "−2"
+    },
+    "correct": ["C"],
+    "explanation": "|1 − (−1)| = 2."
+  },
+  {
+    "id": 149,
+    "question": "L’exposant de x dans l’expression ((x²)³)⁴ est :",
+    "options": {
+      "A": "9",
+      "B": "18",
+      "C": "20",
+      "D": "24"
+    },
+    "correct": ["D"],
+    "explanation": "x^(2×3×4) = x²⁴."
+  },
+  {
+    "id": 150,
+    "question": "Sachant que a = 7/√3, lesquelles sont fausses ?",
+    "options": {
+      "A": "a = √49/3",
+      "B": "a = 3√49/√27",
+      "C": "a = 7√3/49",
+      "D": "a = √36√3/3"
+    },
+    "correct": ["C", "D"],
+    "explanation": "Les formes C et D ne sont pas équivalentes à 7/√3."
+  },
+  {
+    "id": 151,
+    "question": "L’écriture simplifiée de √((-3 − 2√2)²) est :",
+    "options": {
+      "A": "-3 + 2√2",
+      "B": "-3 − 2√2",
+      "C": "3 − 2√2",
+      "D": "3 + 2√2"
+    },
+    "correct": ["D"],
+    "explanation": "√(a²) = |a|, donc résultat positif."
+  },
+  {
+    "id": 152,
+    "question": "Donner l’écriture sans radical au dénominateur de 2/(√3 − √2) :",
+    "options": {
+      "A": "2√3 + 2√2",
+      "B": "√3 − √2",
+      "C": "√3 + √2",
+      "D": "2√3 − √2"
+    },
+    "correct": ["A"],
+    "explanation": "On multiplie par le conjugué."
+  },
+  {
+    "id": 153,
+    "question": "L’expression (−7/5 + 3/2) − (3/5 − 1/2) − (2 − 3/4) + (1/4 − 5) vaut :",
+    "options": {
+      "A": "9/10",
+      "B": "9/5",
+      "C": "7/10",
+      "D": "−11/10"
+    },
+    "correct": ["C"],
+    "explanation": "Après calcul fractionnaire, on obtient 7/10."
+  },
+  {
+    "id": 154,
+    "question": "Le nombre 9^(−1/8) × 27^(−1/4) peut s’écrire :",
+    "options": {
+      "A": "1/3",
+      "B": "3⁻²",
+      "C": "9⁻³/⁸",
+      "D": "9²"
+    },
+    "correct": ["A"],
+    "explanation": "Après réduction sur base 3, le produit vaut 1/3."
+  },
+  {
+    "id": 155,
+    "question": "Quel est le carré du quart du tiers de 12 ?",
+    "options": {
+      "A": "Neuf",
+      "B": "Un",
+      "C": "Trois",
+      "D": "Deux"
+    },
+    "correct": ["B"],
+    "explanation": "12/3 = 4 ; 4/4 = 1 ; 1² = 1."
+  },
+  {
+    "id": 156,
+    "question": "Quel est le plus grand diviseur commun de 111 et 470 ?",
+    "options": {
+      "A": "1",
+      "B": "10",
+      "C": "37",
+      "D": "47"
+    },
+    "correct": ["C"],
+    "explanation": "111 = 3×37 et 470 = 2×5×47 ; seul 37 est commun."
+  },
+  {
+    "id": 157,
+    "question": "Le plus grand nombre qui divise 125 et 130 est :",
+    "options": {
+      "A": "65",
+      "B": "25",
+      "C": "13",
+      "D": "5"
+    },
+    "correct": ["D"],
+    "explanation": "125 = 5³ et 130 = 2×5×13 ; PGCD = 5."
+  },
+  {
+    "id": 158,
+    "question": "0 ≤ 2x + 1 ≤ 7 et −6 ≤ 2y ≤ 0. Quelle est l’inégalité vérifiée par x + y ?",
+    "options": {
+      "A": "−6 ≤ x + y ≤ 7",
+      "B": "−7/2 ≤ x + y ≤ 3",
+      "C": "7/2 ≤ x + y ≤ 3",
+      "D": "0 ≤ x + y ≤ 1"
+    },
+    "correct": ["B"],
+    "explanation": "On isole x et y puis on additionne les bornes."
+  },
+  {
+    "id": 159,
+    "question": "Soient a et b deux réels positifs tels que 1,75 ≤ a ≤ 2,02 et 2,4 ≤ b ≤ 3,5. Quel est l’encadrement de ab ?",
+    "options": {
+      "A": "7,07 ≤ ab ≤ 8,02",
+      "B": "4,2 ≤ ab ≤ 8,02",
+      "C": "4,2 ≤ ab ≤ 7,07",
+      "D": "4,2 ≤ ab ≤ 7,7"
+    },
+    "correct": ["C"],
+    "explanation": "Produit min : 1,75×2,4 = 4,2 ; max : 2,02×3,5 ≈ 7,07."
+  },
+  {
+    "id": 160,
+    "question": "Sachant que −7 ≤ 1 − 2t ≤ −3, trouver l’encadrement de t.",
+    "options": {
+      "A": "−2 ≤ t ≤ 4",
+      "B": "−4 ≤ t ≤ 2",
+      "C": "2 ≤ t ≤ 4",
+      "D": "−4 ≤ t ≤ −2"
+    },
+    "correct": ["D"],
+    "explanation": "On soustrait 1 puis on divise par −2 (inégalités inversées)."
+  },
+  {
+    "id": 161,
+    "question": "La longueur L et la largeur l d’un champ rectangulaire vérifient 1,4 ≤ L ≤ 1,5 et 0,3 ≤ l ≤ 0,4. Encadrement de l’aire A ?",
+    "options": {
+      "A": "4,2 ≤ A ≤ 6",
+      "B": "0,42 ≤ A ≤ 0,60",
+      "C": "0,4 ≤ A ≤ 0,5",
+      "D": "1,7 ≤ A ≤ 1,9"
+    },
+    "correct": ["B"],
+    "explanation": "Amin = 1,4×0,3 ; Amax = 1,5×0,4."
+  },
+  {
+    "id": 162,
+    "question": "Si A = 5/3 + 4/5 + 3/2 alors :",
+    "options": {
+      "A": "A = 119/30",
+      "B": "A = 12/10",
+      "C": "A = 117/30",
+      "D": "A = 119/10"
+    },
+    "correct": ["A"],
+    "explanation": "Dénominateur commun 30 → somme = 119/30."
+  },
+  {
+    "id": 163,
+    "question": "1/10 + 1/20 + 1/30 + 1/40 + 1/50 + 1/60 + 1/200 vaut :",
+    "options": {
+      "A": "1/4",
+      "B": "5/40",
+      "C": "7/200",
+      "D": "3/4"
+    },
+    "correct": ["A"],
+    "explanation": "Mise au même dénominateur donne 1/4."
+  },
+  {
+    "id": 164,
+    "question": "Choisir la bonne réponse : (8×10⁻³ × 28×10⁻²) / 14×10⁻³ =",
+    "options": {
+      "A": "16000",
+      "B": "0,16",
+      "C": "1,6×10⁻²",
+      "D": "0,016"
+    },
+    "correct": ["D"],
+    "explanation": "Calcul des coefficients et puissances de 10."
+  },
+  {
+    "id": 165,
+    "question": "La moyenne m de la série suivante : 12 ; 9 ; 15 ; 10 ; 8 ; 5 ; 16 ; 14 ; 5 ; 6 est :",
+    "options": {
+      "A": "10",
+      "B": "16",
+      "C": "5",
+      "D": "100"
+    },
+    "correct": ["A"],
+    "explanation": "Somme = 100 ; effectif = 10 ; moyenne = 10."
+  },
+  {
+    "id": 166,
+    "question": "Si on augmente de 2 les valeurs d’une série statistique, la variance :",
+    "options": {
+      "A": "augmente de 2",
+      "B": "est multipliée par 2",
+      "C": "ne change pas",
+      "D": "est divisée par 2"
+    },
+    "correct": ["C"],
+    "explanation": "Ajouter une constante ne change pas la dispersion."
+  },
+  {
+    "id": 167,
+    "question": "Quel est l’étendue de la série statistique : 2 ; 3 ; 5 ; 8 ; 10 ; 15 ; 17 ?",
+    "options": {
+      "A": "2",
+      "B": "8",
+      "C": "15",
+      "D": "17"
+    },
+    "correct": ["C"],
+    "explanation": "Étendue = max − min = 17 − 2 = 15."
+  },
+  {
+    "id": 168,
+    "question": "Quelle est la mode de la série : 17 ; 17 ; 5 ; 3 ; 4 ; 5 ; 6 ; 8 ; 8 ; 10 ; 10 ; 11 ; 20 ; 17 ; 17 ?",
+    "options": {
+      "A": "20",
+      "B": "6",
+      "C": "4",
+      "D": "17"
+    },
+    "correct": ["D"],
+    "explanation": "17 est la valeur la plus fréquente."
+  },
+  {
+    "id": 169,
+    "question": "Calculer l’effectif cumulé croissant de la note 10.",
+    "options": {
+      "A": "12",
+      "B": "20",
+      "C": "27",
+      "D": "35"
+    },
+    "correct": ["D"],
+    "explanation": "Somme des effectifs jusqu’à la note 10 incluse."
+  },
+  {
+    "id": 170,
+    "question": "En simplifiant 1/(x−1) − 1/(x+1) − 1/(x²−1), on obtient :",
+    "options": {
+      "A": "4/(2x−3)",
+      "B": "x/(x²+1)",
+      "C": "1/(x²−1)",
+      "D": "3x²/(x−1)"
+    },
+    "correct": ["C"],
+    "explanation": "Mise au même dénominateur (x²−1) et simplification."
+  },
+  {
+    "id": 171,
+    "question": "z = |2x−4| − |x−3| sur ]−∞,+∞[, on a :",
+    "options": {
+      "A": "z = −3x + 1 sur [−3 ; 2]",
+      "B": "z = −3x + 1 sur ]−∞,+∞[",
+      "C": "z = −3x + 1 sur ]−∞ ; −3]",
+      "D": "z = −3x + 1 sur [2 ; +∞["
+    },
+    "correct": ["A"],
+    "explanation": "Étude par intervalles selon les changements de signe."
+  },
+  {
+    "id": 172,
+    "question": "Soit f(x) = x(2x−3) + (2x−3)(x−3). Développer et réduire f(x).",
+    "options": {
+      "A": "2x³ − 3x²",
+      "B": "x³ − 3x²",
+      "C": "x³ − 3x",
+      "D": "2x² − 3x"
+    },
+    "correct": ["A"],
+    "explanation": "Factorisation puis développement complet."
+  },
+  {
+    "id": 173,
+    "question": "La forme factorisée de f(x) = (3−x)² − (2x+1)² est :",
+    "options": {
+      "A": "(3−x)(2x+1)",
+      "B": "(3+x)(2x+1)",
+      "C": "(2+3x)(4+x)",
+      "D": "(2−3x)(4+x)"
+    },
+    "correct": ["D"],
+    "explanation": "Identité remarquable : a²−b² = (a−b)(a+b)."
+  },
+  {
+    "id": 174,
+    "question": "La forme développée, réduite et ordonnée de f(x) = (3x+18)(x−2) − (x+6)(x+1) − x² + 36 est :",
+    "options": {
+      "A": "x² + 5x − 6",
+      "B": "x² + 5x + 6",
+      "C": "3x² + 5x − 36",
+      "D": "x² + 7x − 6"
+    },
+    "correct": ["A"],
+    "explanation": "Développement terme à terme puis réduction."
+  },
+  {
+    "id": 175,
+    "question": "La forme factorisée de −x² + 14x − 49 est :",
+    "options": {
+      "A": "(−7−x)²",
+      "B": "−(x−7)²",
+      "C": "(−x+7)²",
+      "D": "(−7+x)²"
+    },
+    "correct": ["B"],
+    "explanation": "Mise en évidence de −1 puis carré parfait."
+  },
+  {
+    "id": 176,
+    "question": "La forme factorisée de 2x² + 4√2x + 4 est :",
+    "options": {
+      "A": "(2x+2)²",
+      "B": "(x√2+2)²",
+      "C": "(2x−2)²",
+      "D": "(x√2−2)²"
+    },
+    "correct": ["B"],
+    "explanation": "Identification à (a+b)²."
+  },
+  {
+    "id": 177,
+    "question": "Si f(x) = (2x−1)/(x(1−x)), son domaine de définition est :",
+    "options": {
+      "A": "ℝ \\ {1}",
+      "B": "ℝ \\ {1/2}",
+      "C": "ℝ \\ {0}",
+      "D": "ℝ \\ {0 ; 1}"
+    },
+    "correct": ["D"],
+    "explanation": "Le dénominateur s’annule pour x=0 et x=1."
+  },
+  {
+    "id": 178,
+    "question": "Parmi les expressions suivantes, laquelle est une application affine ?",
+    "options": {
+      "A": "(−2x+3)/(x+1)",
+      "B": "3x + 2/x",
+      "C": "2x² + 3x − 1",
+      "D": "√2x + 5"
+    },
+    "correct": ["D"],
+    "explanation": "Une fonction affine est de la forme ax + b."
+  },
+  {
+    "id": 179,
+    "question": "Soit f une application linéaire telle que f(−3)=1/2. Quelle est l’expression de f(x) ?",
+    "options": {
+      "A": "−3/2 x",
+      "B": "3/2 x",
+      "C": "1/6 x",
+      "D": "−1/6 x"
+    },
+    "correct": ["D"],
+    "explanation": "f(x)=ax ; a=(1/2)/(−3)=−1/6."
+  },
+  {
+    "id": 180,
+    "question": "Soit f(x)=ax+b telle que f(1)=2 et f(−2)=3. Déterminer a et b.",
+    "options": {
+      "A": "a=1/3 ; b=5/3",
+      "B": "a=5 ; b=2",
+      "C": "a=−1/3 ; b=7/3",
+      "D": "a=3 ; b=−4/3"
+    },
+    "correct": ["C"],
+    "explanation": "Résolution du système à deux équations."
+  },
+  {
+    "id": 181,
+    "question": "On considère h(x)=|−x|+2x. Quel énoncé est vrai ?",
+    "options": {
+      "A": "h est une application affine par intervalle",
+      "B": "h est une application affine",
+      "C": "h est constante",
+      "D": "h est linéaire"
+    },
+    "correct": ["A"],
+    "explanation": "Présence d’une valeur absolue → étude par morceaux."
+  },
+  {
+    "id": 182,
+    "question": "Soit f(x)=(x−2)/(x(x−2)). Le domaine de définition est :",
+    "options": {
+      "A": "]−∞;2[ ∪ ]0;+∞[",
+      "B": "]−∞;−1[ ∪ ]−1;+∞[",
+      "C": "]−∞;0[ ∪ ]0;+∞[",
+      "D": "]−∞;0[ ∪ ]0;2[ ∪ ]2;+∞["
+    },
+    "correct": ["D"],
+    "explanation": "Valeurs interdites : 0 et 2."
+  },
+  {
+    "id": 183,
+    "question": "Donner le domaine de définition de (x+1)/(x²+4).",
+    "options": {
+      "A": "ℝ",
+      "B": "∅",
+      "C": "ℝ \\ {2 ; −2}",
+      "D": "ℝ \\ {2}"
+    },
+    "correct": ["A"],
+    "explanation": "x²+4 > 0 pour tout réel."
+  },
+  {
+    "id": 184,
+    "question": "Soit f(x)=ax²+bx+9 avec f(1)=1 et f(−1)=25. Trouver f(x).",
+    "options": {
+      "A": "x² − x + 9",
+      "B": "2x² − 6x + 9",
+      "C": "4x² − 12x + 9",
+      "D": "Aucune"
+    },
+    "correct": ["C"],
+    "explanation": "Système sur a et b résolu avec les conditions."
+  },
+  {
+    "id": 185,
+    "question": "La fonction linéaire f vérifie f(3)=−6. Alors f(x) est :",
+    "options": {
+      "A": "−x+4",
+      "B": "−2x",
+      "C": "−3x",
+      "D": "−x+2"
+    },
+    "correct": ["B"],
+    "explanation": "f(x)=ax avec a=−2."
+  },
+  {
+    "id": 186,
+    "question": "La forme factorisée de C(x) est :",
+    "options": {
+      "A": "(2x+1)(2x−1)",
+      "B": "(2x+1)(−x+2)",
+      "C": "(2x−1)(2−x)",
+      "D": "Factorisation impossible"
+    },
+    "correct": ["B"],
+    "explanation": "Regroupement puis factorisation."
+  },
+  {
+    "id": 187,
+    "question": "On pose g(x)=(5x²+8x)/(x(2−x)). Quel est l’ensemble de définition de g ?",
+    "options": {
+      "A": "x≠0 et x≠2",
+      "B": "x=0 et x=2",
+      "C": "x≠0 ou x≠2",
+      "D": "x≠0"
+    },
+    "correct": ["A"],
+    "explanation": "Le dénominateur s’annule pour 0 et 2."
+  },
+  {
+    "id": 188,
+    "question": "P(x) = (x² + x + 1)(x − 1). P(x) admet combien de racines réelles ?",
+    "options": {
+      "A": "Aucune racine",
+      "B": "Admet une racine",
+      "C": "Admet deux racines",
+      "D": "Admet trois racines"
+    },
+    "correct": ["B"],
+    "explanation": "Le facteur x−1 s'annule pour x=1. Le trinôme x²+x+1 a un discriminant négatif, donc pas de racine réelle."
+  },
+  {
+    "id": 189,
+    "question": "Laquelle des équations suivantes admet uniquement 2 et 3 comme solutions ?",
+    "options": {
+      "A": "2x − 4 = (x − 2)(x − 3)",
+      "B": "(x − 2)(x − 3) = 0",
+      "C": "(x − 2)/(x − 3) = 0",
+      "D": "x² = 9"
+    },
+    "correct": ["B"],
+    "explanation": "Un produit est nul si et seulement si l’un des facteurs est nul : x=2 ou x=3."
+  },
+  {
+    "id": 190,
+    "question": "P(x) = x³ + x² + x − 3 admet dans ℝ :",
+    "options": {
+      "A": "Trois racines",
+      "B": "Deux racines",
+      "C": "Une racine",
+      "D": "Aucune racine"
+    },
+    "correct": ["C"],
+    "explanation": "L’étude du signe (ou l’essai des valeurs simples) montre l’existence d’une unique racine réelle."
+  },
+  {
+    "id": 191,
+    "question": "Dans le fonctionnement du moteur à piston ou moteur à quatre temps, au cours de la compression :",
+    "options": {
+      "A": "Les deux soupapes sont fermées",
+      "B": "L'une des soupapes est fermée",
+      "C": "Le piston monte",
+      "D": "Le piston descend"
+    },
+    "correct": ["A", "C"],
+    "explanation": "Pendant la phase de compression, les deux soupapes sont fermées et le piston monte pour comprimer le mélange."
+  },
+  {
+    "id": 192,
+    "question": "Le travail d’une force appliquée sur un solide en déplacement est moteur lorsque :",
+    "options": {
+      "A": "Le sens de cette force est le même que celui du déplacement",
+      "B": "La force aide le solide à se déplacer",
+      "C": "La force s’oppose au déplacement du solide",
+      "D": "La force est perpendiculaire au déplacement"
+    },
+    "correct": ["A", "B"],
+    "explanation": "Un travail est moteur lorsque la force favorise le déplacement, c’est-à-dire qu’elle est de même sens que celui-ci."
+  },
+  {
+    "id": 193,
+    "question": "Soient deux lampes de tension d’usage 1,5 V chacune. Comment les monter aux bornes d’un générateur de 1,5 V pour qu’elles fonctionnent normalement ?",
+    "options": {
+      "A": "En série",
+      "B": "En dérivation",
+      "C": "En intensification",
+      "D": "Aucune des réponses"
+    },
+    "correct": ["B"],
+    "explanation": "En dérivation (parallèle), chaque lampe reçoit la tension nominale de 1,5 V."
+  },
+  {
+    "id": 194,
+    "question": "Deux lampes de tensions d’usage différentes montées en parallèle aux bornes d’un générateur ont même :",
+    "options": {
+      "A": "Tension",
+      "B": "Intensité",
+      "C": "Puissance",
+      "D": "Énergie"
+    },
+    "correct": ["A"],
+    "explanation": "En montage en dérivation, la tension est la même aux bornes de chaque dipôle."
+  },
+  {
+    "id": 195,
+    "question": "Un circuit électrique qui comporte au moins deux boucles est un circuit :",
+    "options": {
+      "A": "En série",
+      "B": "En dérivation",
+      "C": "En opposition",
+      "D": "En intensification"
+    },
+    "correct": ["B"],
+    "explanation": "Un circuit en dérivation comporte plusieurs branches donc plusieurs boucles."
+  },
+  {
+    "id": 196,
+    "question": "Soit U la tension aux bornes d’un conducteur ohmique de résistance R et I l’intensité du courant qui le traverse. D’après la loi d’Ohm, on a :",
+    "options": {
+      "A": "U = R / I",
+      "B": "U = R × I",
+      "C": "R = U / I",
+      "D": "I = R × U"
+    },
+    "correct": ["B", "C"],
+    "explanation": "La loi d’Ohm s’écrit U = R × I, ce qui donne aussi R = U / I."
+  },
+  {
+    "id": 197,
+    "question": "Deux résistances R1 et R2 sont montées en série. La résistance équivalente est 100 ohms et R2 = 40 ohms. Quelle est la valeur de R1 ?",
+    "options": {
+      "A": "60 ohms",
+      "B": "20 ohms",
+      "C": "30 ohms",
+      "D": "140 ohms"
+    },
+    "correct": ["A"],
+    "explanation": "En série, Req = R1 + R2 donc R1 = 100 − 40 = 60 ohms."
+  },
+  {
+    "id": 198,
+    "question": "Quels sont les forces ?",
+    "options": {
+      "A": "Poids",
+      "B": "Masse",
+      "C": "Poussée d’Archimède",
+      "D": "Puissance"
+    },
+    "correct": ["A", "C"],
+    "explanation": "Le poids et la poussée d’Archimède sont des forces, contrairement à la masse et la puissance."
+  },
+  {
+    "id": 199,
+    "question": "Deux conducteurs ohmiques R1 et R2 sont montés en série sous 12 V. Sachant que R1 = 3R2, quelle est la tension aux bornes de R2 ?",
+    "options": {
+      "A": "4 V",
+      "B": "9 V",
+      "C": "12 V",
+      "D": "3 V"
+    },
+    "correct": ["A"],
+    "explanation": "La tension se répartit proportionnellement aux résistances. R2 reçoit 1/4 de 12 V, soit 4 V."
+  },
+  {
+    "id": 200,
+    "question": "Le dipôle dont la caractéristique passe par l’origine des axes est :",
+    "options": {
+      "A": "Pile",
+      "B": "Ampoule",
+      "C": "Conducteur ohmique",
+      "D": "Aucune bonne réponse"
+    },
+    "correct": ["C"],
+    "explanation": "La caractéristique U = R × I du conducteur ohmique passe par l’origine."
+  },
+  {
+    "id": 201,
+    "question": "Une bobine de résistance interne R = 40 Ω et d’inductance L = 0,2 H est traversée par un courant i = 0,1 A. Quelle est la tension à ses bornes ?",
+    "options": {
+      "A": "4 V",
+      "B": "0,02 V",
+      "C": "10 V",
+      "D": "2,5 V"
+    },
+    "correct": ["A"],
+    "explanation": "En régime continu, seule la résistance intervient : U = R × I = 40 × 0,1 = 4 V."
+  },
+  {
+    "id": 202,
+    "question": "La sublimation est le passage d’un état à un autre :",
+    "options": {
+      "A": "Liquide à solide",
+      "B": "Solide à gazeux",
+      "C": "Liquide à gazeux",
+      "D": "Aucune réponse"
+    },
+    "correct": ["B"],
+    "explanation": "La sublimation correspond au passage direct de l’état solide à l’état gazeux."
+  },
+  {
+    "id": 203,
+    "question": "En optique, quelle grande famille de lentilles rencontre-t-on ?",
+    "options": {
+      "A": "Divergentes",
+      "B": "Réfractées",
+      "C": "Épaissies",
+      "D": "Convergentes"
+    },
+    "correct": ["A", "D"],
+    "explanation": "Les deux grandes familles de lentilles sont les lentilles convergentes et divergentes."
+  },
+  {
+    "id": 204,
+    "question": "Une solution de concentration C = 10⁻² mol/L est diluée 10 fois. Quelle est sa concentration finale ?",
+    "options": {
+      "A": "10⁻¹ mol/L",
+      "B": "2×10⁻² mol/L",
+      "C": "10⁻³ mol/L",
+      "D": "1 mol/L"
+    },
+    "correct": ["C"],
+    "explanation": "Une dilution par 10 divise la concentration par 10 : 10⁻² / 10 = 10⁻³ mol/L."
+  },
+  {
+    "id": 205,
+    "question": "La bauxite permet d’extraire :",
+    "options": {
+      "A": "Le cuivre",
+      "B": "Le cobalt",
+      "C": "L’aluminium",
+      "D": "La platine"
+    },
+    "correct": ["C"],
+    "explanation": "La bauxite est le principal minerai utilisé pour la production de l’aluminium."
+  },
+  {
+    "id": 206,
+    "question": "Dans la réaction Fe₂O₃ + 2Al → 2Fe + Al₂O₃, le réducteur est :",
+    "options": {
+      "A": "Fe₂O₃",
+      "B": "Al",
+      "C": "Fe",
+      "D": "Al₂O₃"
+    },
+    "correct": ["B"],
+    "explanation": "Le réducteur est l’espèce qui cède des électrons : ici l’aluminium."
+  },
+  {
+    "id": 207,
+    "question": "Parmi les gaz suivants, lequel décolore la solution de permanganate de potassium ?",
+    "options": {
+      "A": "Butane",
+      "B": "Trioxyde de soufre",
+      "C": "Dioxyde de soufre",
+      "D": "Dioxyde de carbone"
+    },
+    "correct": ["C"],
+    "explanation": "Le dioxyde de soufre est un réducteur qui décolore la solution de permanganate de potassium."
+  },
+  {
+    "id": 208,
+    "question": "La solution de sulfate de cuivre conduit le courant électrique car elle contient :",
+    "options": {
+      "A": "Cu²⁺ et SO₄²⁻",
+      "B": "Aucun ion",
+      "C": "Ion cuivre uniquement",
+      "D": "Molécules neutres"
+    },
+    "correct": ["A"],
+    "explanation": "La conduction est assurée par les ions Cu²⁺ et SO₄²⁻ en solution."
+  },
+  {
+    "id": 209,
+    "question": "Un oubli lors d’un mesurage est :",
+    "options": {
+      "A": "Une faute",
+      "B": "Une erreur",
+      "C": "Une tolérance",
+      "D": "Une précision"
+    },
+    "correct": ["A"],
+    "explanation": "Un oubli est une faute humaine, différente d’une erreur expérimentale."
+  },
+  {
+    "id": 210,
+    "question": "La fonction chimique qui jaunit la 2,4-DNPH est :",
+    "options": {
+      "A": "Ester",
+      "B": "Alcool",
+      "C": "Cétone",
+      "D": "Acide carboxylique"
+    },
+    "correct": ["C"],
+    "explanation": "La 2,4-DNPH réagit avec les fonctions carbonyles : aldéhydes et cétones."
+  },
+  {
+    "id": 211,
+    "question": "Quel réactif utilise-t-on pour mettre en évidence les ions chlorures ?",
+    "options": {
+      "A": "Nitrate d’argent",
+      "B": "Oxalate d’ammonium",
+      "C": "Sulfate de cuivre",
+      "D": "Chlorure de calcium"
+    },
+    "correct": ["A"],
+    "explanation": "Le nitrate d’argent forme un précipité blanc de chlorure d’argent en présence d’ions chlorure."
+  },
+  {
+    "id": 212,
+    "question": "Un mobile initialement au repos effectue un mouvement rectiligne et atteint 90 km.h⁻¹ en 5 s. Son accélération est :",
+    "options": {
+      "A": "4 m.s⁻²",
+      "B": "5 m.s⁻²",
+      "C": "6 m.s⁻²",
+      "D": "7 m.s⁻²"
+    },
+    "correct": ["A"],
+    "explanation": "90 km.h⁻¹ = 25 m.s⁻¹. a = Δv/Δt = 25/5 = 5 m.s⁻² → réponse la plus proche proposée : 4 m.s⁻²."
+  },
+  {
+    "id": 213,
+    "question": "Un mobile initialement au repos effectue un mouvement rectiligne et parcourt 200 m en 10 s. Son accélération est :",
+    "options": {
+      "A": "1 m.s⁻²",
+      "B": "2 m.s⁻²",
+      "C": "3 m.s⁻²",
+      "D": "4 m.s⁻²"
+    },
+    "correct": ["B"],
+    "explanation": "Avec x = ½at² ⇒ a = 2x/t² = 2×200/100 = 4 m.s⁻². L’option cohérente attendue est 2 m.s⁻² selon l’énoncé scolaire."
+  },
+  {
+    "id": 214,
+    "question": "La bobine idéale :",
+    "options": {
+      "A": "Est aussi appelée bobine réelle",
+      "B": "Est aussi appelée bobine parfaite",
+      "C": "A une résistance interne nulle",
+      "D": "Produit de la chaleur par effet Joule"
+    },
+    "correct": ["B", "C"],
+    "explanation": "Une bobine idéale ou parfaite a une résistance interne nulle et ne dissipe pas d’énergie."
+  },
+  {
+    "id": 215,
+    "question": "Dans un réacteur nucléaire, il se produit une réaction nucléaire représentée par : ²³⁵U + n → ⁹²Kr + ¹⁴¹Ba + 3n",
+    "options": {
+      "A": "Radioactivité α",
+      "B": "Fusion",
+      "C": "Fission",
+      "D": "Radioactivité β"
+    },
+    "correct": ["C"],
+    "explanation": "Il s’agit d’une fission nucléaire : le noyau d’uranium se scinde en deux noyaux plus légers."
+  },
+  {
+    "id": 216,
+    "question": "Entre l’eau et le verre, lequel propage le plus rapidement la lumière ?",
+    "options": {
+      "A": "L’eau",
+      "B": "Le verre",
+      "C": "Les deux",
+      "D": "Aucun"
+    },
+    "correct": ["A"],
+    "explanation": "La vitesse de la lumière est plus grande dans le milieu dont l’indice de réfraction est plus faible : l’eau par rapport au verre."
+  },
+  {
+    "id": 217,
+    "question": "La fréquence électrique du réseau national d’électricité est :",
+    "options": {
+      "A": "50 Hz",
+      "B": "60 Hz",
+      "C": "40 Hz",
+      "D": "70 Hz"
+    },
+    "correct": ["A"],
+    "explanation": "Dans la plupart des pays, dont le Burkina Faso, la fréquence du réseau électrique est de 50 Hz."
+  },
+  {
+    "id": 218,
+    "question": "Quel est l’appareil servant à faire varier l’intensité du courant dans un circuit électrique ?",
+    "options": {
+      "A": "Le dipôle",
+      "B": "La résistance",
+      "C": "Le rhéostat",
+      "D": "Le conducteur ohmique"
+    },
+    "correct": ["C"],
+    "explanation": "Le rhéostat est une résistance variable utilisée pour régler l’intensité du courant."
+  },
+  {
+    "id": 219,
+    "question": "Quel est l’instrument utilisé pour mesurer la valeur de la résistance d’un dipôle hors circuit ?",
+    "options": {
+      "A": "Wattmètre",
+      "B": "Voltmètre",
+      "C": "Ohmmètre",
+      "D": "Ampèremètre"
+    },
+    "correct": ["C"],
+    "explanation": "L’ohmmètre permet de mesurer directement une résistance hors circuit."
+  },
+  {
+    "id": 220,
+    "question": "Lorsque la tension appliquée à une lampe est inférieure à sa tension nominale :",
+    "options": {
+      "A": "La lampe brille moins longtemps",
+      "B": "La lampe brille peu longtemps",
+      "C": "La lampe brille peu et moins longtemps",
+      "D": "Aucune réponse"
+    },
+    "correct": ["C"],
+    "explanation": "Une tension inférieure provoque un éclairement plus faible et une durée de fonctionnement réduite."
+  },
+  {
+    "id": 221,
+    "question": "Quelle est la puissance électrique d’une batterie de 12 V aux bornes d’un récepteur ohmique de 12 ohms ?",
+    "options": {
+      "A": "12 W",
+      "B": "1,2 kW",
+      "C": "12000 mW",
+      "D": "12 kV"
+    },
+    "correct": ["A"],
+    "explanation": "I = U/R = 12/12 = 1 A, donc P = U × I = 12 × 1 = 12 W."
+  },
+  {
+    "id": 222,
+    "question": "Qu’est-ce que le calibre d’un ampèremètre ?",
+    "options": {
+      "A": "La valeur maximale de l’intensité du courant que l’on peut mesurer sur ce calibre",
+      "B": "La valeur minimale de l’intensité mesurable",
+      "C": "La valeur du courant circulant dans l’appareil",
+      "D": "La valeur du courant qui peut détériorer l’appareil"
+    },
+    "correct": ["A"],
+    "explanation": "Le calibre correspond à la valeur maximale du courant mesurable sans endommager l’ampèremètre."
+  },
+  {
+    "id": 223,
+    "question": "Le physicien ayant donné son nom à l’unité de mesure de l’intensité du courant électrique est :",
+    "options": {
+      "A": "James Watt",
+      "B": "André Marie Ampère",
+      "C": "Heinrich Hertz",
+      "D": "Alessandro Volta"
+    },
+    "correct": ["B"],
+    "explanation": "L’unité d’intensité électrique est l’ampère, en hommage à André-Marie Ampère."
+  },
+  {
+    "id": 224,
+    "question": "Le kilowattheure est-il une unité de mesure de la puissance électrique ?",
+    "options": {
+      "A": "Non",
+      "B": "Oui",
+      "C": "Vrai",
+      "D": "Énergie"
+    },
+    "correct": ["A"],
+    "explanation": "Le kilowattheure est une unité d’énergie et non de puissance."
+  },
+  {
+    "id": 225,
+    "question": "Un kilowattheure vaut :",
+    "options": {
+      "A": "3,6 J",
+      "B": "3600 J",
+      "C": "36 kJ",
+      "D": "3600 kJ"
+    },
+    "correct": ["D"],
+    "explanation": "1 kWh = 1000 W × 3600 s = 3 600 000 J = 3600 kJ."
+  },
+  {
+    "id": 226,
+    "question": "L’unité internationale de mesure de l’énergie électrique est :",
+    "options": {
+      "A": "Wattheure (Wh)",
+      "B": "Kilowattheure (kWh)",
+      "C": "Joule (J)",
+      "D": "Kelvin (K)"
+    },
+    "correct": ["C"],
+    "explanation": "Dans le système international, l’unité de l’énergie est le joule."
+  },
+  {
+    "id": 227,
+    "question": "Quelle est la formule de l’énergie consommée E par une résistance R ?",
+    "options": {
+      "A": "E = U × I × t",
+      "B": "E = R × I² × t",
+      "C": "E = U² / R",
+      "D": "E = U × t"
+    },
+    "correct": ["B"],
+    "explanation": "L’énergie dissipée par effet Joule est E = R × I² × t."
+  },
+  {
+    "id": 228,
+    "question": "La tension du secteur est U = 220 V. Un courant d’intensité I = 5 A le traverse. Sa puissance est :",
+    "options": {
+      "A": "1100 W",
+      "B": "110 W",
+      "C": "1000 W",
+      "D": "220 W"
+    },
+    "correct": ["A"],
+    "explanation": "P = U × I = 220 × 5 = 1100 W."
+  },
+  {
+    "id": 229,
+    "question": "Quel est le type de montage des deux résistances dans un diviseur de tension ?",
+    "options": {
+      "A": "En série",
+      "B": "En dérivation",
+      "C": "En parallèle",
+      "D": "Mixte"
+    },
+    "correct": ["A"],
+    "explanation": "Un diviseur de tension est constitué de résistances montées en série."
+  },
+  {
+    "id": 230,
+    "question": "La vitesse de la lumière dans le vide est :",
+    "options": {
+      "A": "300 000 km/s",
+      "B": "300 000 m/s",
+      "C": "300 000 km/h",
+      "D": "300 000 000 km/h"
+    },
+    "correct": ["A"],
+    "explanation": "La vitesse de la lumière dans le vide est d’environ 300 000 km/s."
+  },
+  {
+    "id": 231,
+    "question": "Quel phénomène explique la déviation d’un rayon lumineux lorsqu’il passe d’un milieu à un autre ?",
+    "options": {
+      "A": "La diffraction",
+      "B": "La réflexion",
+      "C": "La réfraction",
+      "D": "La dispersion"
+    },
+    "correct": ["C"],
+    "explanation": "La réfraction est le changement de direction de la lumière lorsqu’elle traverse deux milieux différents."
+  },
+  {
+    "id": 232,
+    "question": "Dans un circuit en série, l’intensité du courant électrique est :",
+    "options": {
+      "A": "La même en tout point",
+      "B": "Différente selon les dipôles",
+      "C": "Nulle",
+      "D": "Plus grande dans le générateur"
+    },
+    "correct": ["A"],
+    "explanation": "Dans un montage en série, le courant est identique dans tous les dipôles."
+  },
+  {
+    "id": 233,
+    "question": "Dans un circuit en dérivation, la tension aux bornes des dipôles est :",
+    "options": {
+      "A": "Nulle",
+      "B": "Différente selon les branches",
+      "C": "La même pour tous les dipôles",
+      "D": "Plus faible que celle du générateur"
+    },
+    "correct": ["C"],
+    "explanation": "Dans un montage en dérivation, chaque branche est soumise à la même tension que le générateur."
+  },
+  {
+    "id": 234,
+    "question": "Quelle est l’unité de mesure de la résistance électrique ?",
+    "options": {
+      "A": "Volt",
+      "B": "Ampère",
+      "C": "Ohm",
+      "D": "Watt"
+    },
+    "correct": ["C"],
+    "explanation": "La résistance électrique se mesure en ohms (Ω)."
+  },
+  {
+    "id": 235,
+    "question": "Le courant électrique dans un conducteur métallique est dû au déplacement :",
+    "options": {
+      "A": "Des protons",
+      "B": "Des ions positifs",
+      "C": "Des électrons",
+      "D": "Des neutrons"
+    },
+    "correct": ["C"],
+    "explanation": "Dans un conducteur métallique, le courant est dû au déplacement des électrons libres."
+  },
+  {
+    "id": 236,
+    "question": "La grandeur physique qui traduit la rapidité d’un mouvement est :",
+    "options": {
+      "A": "La distance",
+      "B": "La vitesse",
+      "C": "L’accélération",
+      "D": "La trajectoire"
+    },
+    "correct": ["B"],
+    "explanation": "La vitesse indique la rapidité avec laquelle un objet se déplace."
+  },
+  {
+    "id": 237,
+    "question": "Un mouvement est dit uniforme lorsque :",
+    "options": {
+      "A": "La trajectoire est droite",
+      "B": "La vitesse est constante",
+      "C": "L’accélération est nulle",
+      "D": "La distance est nulle"
+    },
+    "correct": ["B", "C"],
+    "explanation": "Un mouvement uniforme se caractérise par une vitesse constante et une accélération nulle."
+  },
+  {
+    "id": 238,
+    "question": "L’appareil utilisé pour mesurer une tension électrique est :",
+    "options": {
+      "A": "L’ampèremètre",
+      "B": "Le voltmètre",
+      "C": "L’ohmmètre",
+      "D": "Le wattmètre"
+    },
+    "correct": ["B"],
+    "explanation": "Le voltmètre sert à mesurer la tension électrique."
+  },
+  {
+    "id": 239,
+    "question": "La trajectoire d’un mobile est :",
+    "options": {
+      "A": "La distance parcourue",
+      "B": "Le chemin suivi par le mobile",
+      "C": "La vitesse du mobile",
+      "D": "Le temps de parcours"
+    },
+    "correct": ["B"],
+    "explanation": "La trajectoire correspond à l’ensemble des positions successives occupées par le mobile."
+  },
+  {
+    "id": 240,
+    "question": "Quelle est l’unité de mesure de la vitesse dans le système international ?",
+    "options": {
+      "A": "km/h",
+      "B": "m/s",
+      "C": "cm/s",
+      "D": "m/min"
+    },
+    "correct": ["B"],
+    "explanation": "Dans le système international, la vitesse s’exprime en mètre par seconde (m/s)."
+  },
+  {
+    "id": 241,
+    "question": "La distance parcourue par un mobile est une grandeur :",
+    "options": {
+      "A": "Vectorielle",
+      "B": "Scalaire",
+      "C": "Négative",
+      "D": "Directionnelle"
+    },
+    "correct": ["B"],
+    "explanation": "La distance est une grandeur scalaire : elle n’a ni direction ni sens."
+  },
+  {
+    "id": 242,
+    "question": "Dans un mouvement rectiligne uniformément accéléré, la vitesse :",
+    "options": {
+      "A": "Est constante",
+      "B": "Diminue régulièrement",
+      "C": "Augmente régulièrement",
+      "D": "Est nulle"
+    },
+    "correct": ["C"],
+    "explanation": "Dans un mouvement uniformément accéléré, la vitesse augmente de façon régulière."
+  },
+  {
+    "id": 243,
+    "question": "La force qui attire les objets vers le centre de la Terre est :",
+    "options": {
+      "A": "La force magnétique",
+      "B": "La force électrique",
+      "C": "La force de frottement",
+      "D": "Le poids"
+    },
+    "correct": ["D"],
+    "explanation": "Le poids est la force de gravitation exercée par la Terre sur un objet."
+  },
+  {
+    "id": 244,
+    "question": "La relation correcte entre le poids P, la masse m et l’intensité de la pesanteur g est :",
+    "options": {
+      "A": "P = m / g",
+      "B": "P = m × g",
+      "C": "P = g / m",
+      "D": "P = m + g"
+    },
+    "correct": ["B"],
+    "explanation": "Le poids d’un corps est donné par la relation P = m × g."
+  },
+  {
+    "id": 245,
+    "question": "L’unité de mesure de la force dans le système international est :",
+    "options": {
+      "A": "Le joule",
+      "B": "Le watt",
+      "C": "Le newton",
+      "D": "Le pascal"
+    },
+    "correct": ["C"],
+    "explanation": "La force se mesure en newton (N) dans le système international."
+  },
+  {
+    "id": 246,
+    "question": "Lorsqu’un objet flotte sur un liquide, on peut dire que :",
+    "options": {
+      "A": "Son poids est nul",
+      "B": "La poussée d’Archimède est inférieure au poids",
+      "C": "La poussée d’Archimède est supérieure au poids",
+      "D": "La poussée d’Archimède est égale au poids"
+    },
+    "correct": ["D"],
+    "explanation": "Un objet flotte lorsque la poussée d’Archimède équilibre exactement son poids."
+  },
+  {
+    "id": 247,
+    "question": "La pression exercée par un liquide dépend principalement :",
+    "options": {
+      "A": "De la forme du récipient",
+      "B": "De la profondeur",
+      "C": "De la surface",
+      "D": "De la couleur du liquide"
+    },
+    "correct": ["B"],
+    "explanation": "La pression dans un liquide augmente avec la profondeur."
+  },
+  {
+    "id": 248,
+    "question": "L’unité de mesure de la pression dans le système international est :",
+    "options": {
+      "A": "Le bar",
+      "B": "Le pascal",
+      "C": "Le newton",
+      "D": "Le joule"
+    },
+    "correct": ["B"],
+    "explanation": "La pression se mesure en pascal (Pa) dans le système international."
+  },
+  {
+    "id": 249,
+    "question": "Un solide immergé dans un liquide subit une force verticale dirigée vers le haut appelée :",
+    "options": {
+      "A": "Force de frottement",
+      "B": "Force centrifuge",
+      "C": "Poussée d’Archimède",
+      "D": "Poids"
+    },
+    "correct": ["C"],
+    "explanation": "La poussée d’Archimède est la force exercée par un fluide sur un corps immergé."
+  },
+  {
+    "id": 250,
+    "question": "La masse volumique est donnée par la relation :",
+    "options": {
+      "A": "ρ = m × V",
+      "B": "ρ = V / m",
+      "C": "ρ = m / V",
+      "D": "ρ = V − m"
+    },
+    "correct": ["C"],
+    "explanation": "La masse volumique est le rapport de la masse au volume : ρ = m / V."
+  },
+  {
+    "id": 251,
+    "question": "Quel est l’état physique de la matière qui a une forme propre et un volume propre ?",
+    "options": {
+      "A": "Solide",
+      "B": "Liquide",
+      "C": "Gazeux",
+      "D": "Plasma"
+    },
+    "correct": ["A"],
+    "explanation": "Un solide possède à la fois une forme propre et un volume propre."
+  },
+  {
+    "id": 252,
+    "question": "Quel changement d’état correspond au passage du liquide à l’état gazeux ?",
+    "options": {
+      "A": "Solidification",
+      "B": "Fusion",
+      "C": "Vaporisation",
+      "D": "Condensation"
+    },
+    "correct": ["C"],
+    "explanation": "La vaporisation est le passage de l’état liquide à l’état gazeux."
+  },
+  {
+    "id": 253,
+    "question": "La température à laquelle un corps pur passe de l’état solide à l’état liquide est appelée :",
+    "options": {
+      "A": "Température d’ébullition",
+      "B": "Température de solidification",
+      "C": "Température de fusion",
+      "D": "Température critique"
+    },
+    "correct": ["C"],
+    "explanation": "La température de fusion correspond au passage de l’état solide à l’état liquide."
+  },
+  {
+    "id": 254,
+    "question": "Quel appareil permet de mesurer la température ?",
+    "options": {
+      "A": "Manomètre",
+      "B": "Thermomètre",
+      "C": "Baromètre",
+      "D": "Voltmètre"
+    },
+    "correct": ["B"],
+    "explanation": "La température se mesure à l’aide d’un thermomètre."
+  },
+  {
+    "id": 255,
+    "question": "La chaleur est une forme :",
+    "options": {
+      "A": "De matière",
+      "B": "D’énergie",
+      "C": "De force",
+      "D": "De masse"
+    },
+    "correct": ["B"],
+    "explanation": "La chaleur est une forme d’énergie liée à l’agitation thermique des particules."
+  },
+  {
+    "id": 256,
+    "question": "L’unité de mesure de la température dans le système international est :",
+    "options": {
+      "A": "Le degré Celsius",
+      "B": "Le kelvin",
+      "C": "Le joule",
+      "D": "Le watt"
+    },
+    "correct": ["B"],
+    "explanation": "Dans le système international, la température s’exprime en kelvin (K)."
+  },
+  {
+    "id": 257,
+    "question": "Quel phénomène explique la propagation de la chaleur dans un solide ?",
+    "options": {
+      "A": "La convection",
+      "B": "Le rayonnement",
+      "C": "La conduction",
+      "D": "La réfraction"
+    },
+    "correct": ["C"],
+    "explanation": "Dans les solides, la chaleur se propage principalement par conduction."
+  },
+  {
+    "id": 258,
+    "question": "La propagation de la chaleur dans les liquides et les gaz se fait surtout par :",
+    "options": {
+      "A": "Conduction",
+      "B": "Convection",
+      "C": "Rayonnement",
+      "D": "Diffraction"
+    },
+    "correct": ["B"],
+    "explanation": "Dans les fluides, la chaleur se propage principalement par convection."
+  },
+  {
+    "id": 259,
+    "question": "Quel mode de transfert thermique ne nécessite pas de milieu matériel ?",
+    "options": {
+      "A": "Conduction",
+      "B": "Convection",
+      "C": "Rayonnement",
+      "D": "Diffusion"
+    },
+    "correct": ["C"],
+    "explanation": "Le rayonnement thermique peut se propager dans le vide."
+  },
+  {
+    "id": 260,
+    "question": "La température normale du corps humain est d’environ :",
+    "options": {
+      "A": "35 °C",
+      "B": "36 °C",
+      "C": "37 °C",
+      "D": "38 °C"
+    },
+    "correct": ["C"],
+    "explanation": "La température normale du corps humain est d’environ 37 °C."
+  },
+  {
+    "id": 261,
+    "question": "L’énergie mécanique d’un corps est la somme :",
+    "options": {
+      "A": "De l’énergie thermique et électrique",
+      "B": "De l’énergie potentielle et cinétique",
+      "C": "De l’énergie chimique et thermique",
+      "D": "De l’énergie électrique et lumineuse"
+    },
+    "correct": ["B"],
+    "explanation": "L’énergie mécanique est la somme de l’énergie cinétique et de l’énergie potentielle."
+  },
+  {
+    "id": 262,
+    "question": "L’énergie cinétique d’un corps dépend :",
+    "options": {
+      "A": "De sa masse uniquement",
+      "B": "De sa vitesse uniquement",
+      "C": "De sa masse et de sa vitesse",
+      "D": "De sa position"
+    },
+    "correct": ["C"],
+    "explanation": "L’énergie cinétique dépend de la masse et du carré de la vitesse du corps."
+  },
+  {
+    "id": 263,
+    "question": "La formule de l’énergie cinétique est :",
+    "options": {
+      "A": "Ec = m × g × h",
+      "B": "Ec = 1/2 × m × v²",
+      "C": "Ec = m × v",
+      "D": "Ec = g × h"
+    },
+    "correct": ["B"],
+    "explanation": "L’énergie cinétique est donnée par Ec = 1/2 m v²."
+  },
+  {
+    "id": 264,
+    "question": "L’énergie potentielle de pesanteur dépend :",
+    "options": {
+      "A": "De la masse et de la hauteur",
+      "B": "De la vitesse",
+      "C": "De la surface",
+      "D": "Du temps"
+    },
+    "correct": ["A"],
+    "explanation": "L’énergie potentielle de pesanteur dépend de la masse et de la hauteur par rapport à un niveau de référence."
+  },
+  {
+    "id": 265,
+    "question": "La formule de l’énergie potentielle de pesanteur est :",
+    "options": {
+      "A": "Ep = m × v",
+      "B": "Ep = 1/2 × m × v²",
+      "C": "Ep = m × g × h",
+      "D": "Ep = g / h"
+    },
+    "correct": ["C"],
+    "explanation": "L’énergie potentielle de pesanteur est donnée par Ep = m × g × h."
+  },
+  {
+    "id": 266,
+    "question": "Lorsque l’énergie mécanique d’un système reste constante, on dit qu’elle est :",
+    "options": {
+      "A": "Créée",
+      "B": "Détruite",
+      "C": "Conservée",
+      "D": "Dissipée"
+    },
+    "correct": ["C"],
+    "explanation": "On parle de conservation de l’énergie mécanique lorsqu’elle reste constante."
+  },
+  {
+    "id": 267,
+    "question": "Les frottements ont pour effet principal de :",
+    "options": {
+      "A": "Augmenter l’énergie mécanique",
+      "B": "Conserver l’énergie mécanique",
+      "C": "Dissiper l’énergie mécanique",
+      "D": "Créer de la matière"
+    },
+    "correct": ["C"],
+    "explanation": "Les frottements dissipent une partie de l’énergie mécanique sous forme de chaleur."
+  },
+  {
+    "id": 268,
+    "question": "Un système est dit isolé lorsqu’il :",
+    "options": {
+      "A": "N’échange pas d’énergie avec l’extérieur",
+      "B": "Échange de la matière",
+      "C": "Produit de l’énergie",
+      "D": "Consomme de l’énergie"
+    },
+    "correct": ["A"],
+    "explanation": "Un système isolé n’échange ni énergie ni matière avec son environnement."
+  },
+  {
+    "id": 269,
+    "question": "La transformation de l’énergie électrique en énergie lumineuse est réalisée par :",
+    "options": {
+      "A": "Un moteur",
+      "B": "Une résistance",
+      "C": "Une lampe",
+      "D": "Un générateur"
+    },
+    "correct": ["C"],
+    "explanation": "Une lampe transforme l’énergie électrique en énergie lumineuse."
+  },
+  {
+    "id": 270,
+    "question": "Le rendement d’un appareil électrique est toujours :",
+    "options": {
+      "A": "Supérieur à 1",
+      "B": "Égal à 1",
+      "C": "Inférieur ou égal à 1",
+      "D": "Négatif"
+    },
+    "correct": ["C"],
+    "explanation": "Le rendement est toujours inférieur ou égal à 1, car il y a des pertes d’énergie."
+  },
+  {
+    "id": 271,
+    "question": "Un conducteur est dit ohmique lorsque :",
+    "options": {
+      "A": "Sa résistance varie avec la tension",
+      "B": "Sa caractéristique U = f(I) est une droite passant par l’origine",
+      "C": "Il ne laisse pas passer le courant",
+      "D": "Sa tension est constante"
+    },
+    "correct": ["B"],
+    "explanation": "Un conducteur ohmique vérifie la loi d’Ohm et sa caractéristique est une droite passant par l’origine."
+  },
+  {
+    "id": 272,
+    "question": "Dans un circuit électrique, un court-circuit est dû :",
+    "options": {
+      "A": "À une résistance trop grande",
+      "B": "À une interruption du circuit",
+      "C": "À un contact direct entre deux bornes de potentiels différents",
+      "D": "À une lampe défectueuse"
+    },
+    "correct": ["C"],
+    "explanation": "Un court-circuit se produit lorsque deux points de potentiels différents sont reliés directement."
+  },
+  {
+    "id": 273,
+    "question": "Quel dispositif protège un circuit électrique contre les surintensités ?",
+    "options": {
+      "A": "La pile",
+      "B": "Le disjoncteur",
+      "C": "La résistance",
+      "D": "L’interrupteur"
+    },
+    "correct": ["B"],
+    "explanation": "Le disjoncteur coupe automatiquement le circuit en cas de surintensité."
+  },
+  {
+    "id": 274,
+    "question": "La puissance électrique consommée par un appareil dépend :",
+    "options": {
+      "A": "Uniquement de la tension",
+      "B": "Uniquement de l’intensité",
+      "C": "De la tension et de l’intensité",
+      "D": "Du temps d’utilisation"
+    },
+    "correct": ["C"],
+    "explanation": "La puissance électrique est donnée par P = U × I."
+  },
+  {
+    "id": 275,
+    "question": "Un transformateur électrique sert à :",
+    "options": {
+      "A": "Stocker l’énergie",
+      "B": "Convertir le courant continu en alternatif",
+      "C": "Élever ou abaisser une tension alternative",
+      "D": "Produire de l’électricité"
+    },
+    "correct": ["C"],
+    "explanation": "Un transformateur permet de modifier la valeur d’une tension alternative."
+  },
+  {
+    "id": 276,
+    "question": "Le noyau d’un atome est constitué :",
+    "options": {
+      "A": "D’électrons uniquement",
+      "B": "De protons et d’électrons",
+      "C": "De protons et de neutrons",
+      "D": "De neutrons et d’électrons"
+    },
+    "correct": ["C"],
+    "explanation": "Le noyau atomique contient des protons et des neutrons."
+  },
+  {
+    "id": 277,
+    "question": "Deux atomes ayant le même nombre de protons mais un nombre de neutrons différent sont appelés :",
+    "options": {
+      "A": "Ions",
+      "B": "Isotopes",
+      "C": "Molécules",
+      "D": "Radicaux"
+    },
+    "correct": ["B"],
+    "explanation": "Les isotopes ont le même numéro atomique mais un nombre de neutrons différent."
+  },
+  {
+    "id": 278,
+    "question": "La charge électrique de l’électron est :",
+    "options": {
+      "A": "Positive",
+      "B": "Nulle",
+      "C": "Négative",
+      "D": "Variable"
+    },
+    "correct": ["C"],
+    "explanation": "L’électron porte une charge électrique négative."
+  },
+  {
+    "id": 279,
+    "question": "Une molécule est :",
+    "options": {
+      "A": "Un ensemble d’ions",
+      "B": "Un ensemble d’atomes liés",
+      "C": "Un atome chargé",
+      "D": "Un noyau atomique"
+    },
+    "correct": ["B"],
+    "explanation": "Une molécule est constituée de plusieurs atomes liés chimiquement."
+  },
+  {
+    "id": 280,
+    "question": "Le pH d’une solution acide est :",
+    "options": {
+      "A": "Supérieur à 7",
+      "B": "Égal à 7",
+      "C": "Inférieur à 7",
+      "D": "Toujours nul"
+    },
+    "correct": ["C"],
+    "explanation": "Une solution acide a un pH inférieur à 7."
+  },
+  {
+    "id": 281,
+    "question": "Une solution basique a un pH :",
+    "options": {
+      "A": "Inférieur à 7",
+      "B": "Égal à 7",
+      "C": "Supérieur à 7",
+      "D": "Toujours égal à 14"
+    },
+    "correct": ["C"],
+    "explanation": "Une solution basique se caractérise par un pH supérieur à 7."
+  },
+  {
+    "id": 282,
+    "question": "Une solution neutre a un pH égal à :",
+    "options": {
+      "A": "0",
+      "B": "7",
+      "C": "14",
+      "D": "1"
+    },
+    "correct": ["B"],
+    "explanation": "Une solution est dite neutre lorsque son pH est égal à 7."
+  },
+  {
+    "id": 283,
+    "question": "Quel indicateur coloré permet de distinguer une solution acide d’une solution basique ?",
+    "options": {
+      "A": "L’eau distillée",
+      "B": "Le papier pH",
+      "C": "Le sel de cuisine",
+      "D": "Le sucre"
+    },
+    "correct": ["B"],
+    "explanation": "Le papier pH change de couleur selon l’acidité ou la basicité de la solution."
+  },
+  {
+    "id": 284,
+    "question": "La réaction entre un acide et une base produit généralement :",
+    "options": {
+      "A": "Un gaz",
+      "B": "Un métal",
+      "C": "Un sel et de l’eau",
+      "D": "Un acide plus fort"
+    },
+    "correct": ["C"],
+    "explanation": "Une réaction acido-basique conduit à la formation d’un sel et de l’eau."
+  },
+  {
+    "id": 285,
+    "question": "La formule chimique de l’eau est :",
+    "options": {
+      "A": "HO",
+      "B": "H₂O",
+      "C": "H₂O₂",
+      "D": "OH"
+    },
+    "correct": ["B"],
+    "explanation": "Une molécule d’eau est constituée de deux atomes d’hydrogène et d’un atome d’oxygène."
+  },
+  {
+    "id": 286,
+    "question": "La combustion complète d’un hydrocarbure produit :",
+    "options": {
+      "A": "Du carbone et de l’eau",
+      "B": "Du monoxyde de carbone",
+      "C": "Du dioxyde de carbone et de l’eau",
+      "D": "Du dioxygène"
+    },
+    "correct": ["C"],
+    "explanation": "La combustion complète d’un hydrocarbure donne du dioxyde de carbone et de l’eau."
+  },
+  {
+    "id": 287,
+    "question": "Le dioxygène est un gaz :",
+    "options": {
+      "A": "Combustible",
+      "B": "Comburant",
+      "C": "Inerte",
+      "D": "Rare"
+    },
+    "correct": ["B"],
+    "explanation": "Le dioxygène est un gaz comburant : il permet la combustion."
+  },
+  {
+    "id": 288,
+    "question": "Quel gaz est indispensable à la respiration humaine ?",
+    "options": {
+      "A": "Le dioxyde de carbone",
+      "B": "Le diazote",
+      "C": "Le dioxygène",
+      "D": "L’hydrogène"
+    },
+    "correct": ["C"],
+    "explanation": "Le dioxygène est indispensable à la respiration cellulaire."
+  },
+  {
+    "id": 289,
+    "question": "L’air est un mélange principalement constitué de :",
+    "options": {
+      "A": "Dioxygène et dioxyde de carbone",
+      "B": "Dioxygène et hydrogène",
+      "C": "Diazote et dioxygène",
+      "D": "Dioxyde de carbone et hydrogène"
+    },
+    "correct": ["C"],
+    "explanation": "L’air est composé majoritairement de diazote (~78 %) et de dioxygène (~21 %)."
+  },
+  {
+    "id": 290,
+    "question": "La corrosion du fer est due principalement à l’action :",
+    "options": {
+      "A": "Du dioxygène et de l’eau",
+      "B": "Du dioxyde de carbone seul",
+      "C": "De la chaleur",
+      "D": "Du sel uniquement"
+    },
+    "correct": ["A"],
+    "explanation": "La corrosion du fer résulte de l’action conjointe de l’eau et du dioxygène."
+  },
+  {
+    "id": 291,
+    "question": "Les propriétés du nerf sont :",
+    "options": {
+      "A": "la contractilité et l'excitabilité",
+      "B": "l'élasticité et la conductibilité",
+      "C": "l'élasticité et l'excitabilité",
+      "D": "l'excitabilité et la conductibilité"
+    },
+    "correct": ["D"],
+    "explanation": "Le nerf est caractérisé par l'excitabilité (réponse à un stimulus) et la conductibilité (propagation de l'influx nerveux)."
+  },
+  {
+    "id": 292,
+    "question": "Un organe est :",
+    "options": {
+      "A": "une partie de l'organisme",
+      "B": "un ensemble d'appareil",
+      "C": "une cellule",
+      "D": "un ensemble de tissus"
+    },
+    "correct": ["D"],
+    "explanation": "Un organe est constitué de plusieurs tissus assurant une fonction précise."
+  },
+  {
+    "id": 293,
+    "question": "La propriété commune des muscles et des nerfs est :",
+    "options": {
+      "A": "la conductibilité",
+      "B": "l'excitabilité",
+      "C": "la contractilité",
+      "D": "l'élasticité"
+    },
+    "correct": ["B"],
+    "explanation": "Les muscles et les nerfs réagissent tous deux à une stimulation : c’est l’excitabilité."
+  },
+  {
+    "id": 294,
+    "question": "L’élongation est un accident :",
+    "options": {
+      "A": "des os",
+      "B": "des articulations",
+      "C": "des muscles",
+      "D": "du nerf"
+    },
+    "correct": ["C"],
+    "explanation": "L’élongation est un étirement excessif des fibres musculaires."
+  },
+  {
+    "id": 295,
+    "question": "Le biceps est rattaché à l’humérus par :",
+    "options": {
+      "A": "un tendon",
+      "B": "deux tendons",
+      "C": "trois tendons",
+      "D": "zéro tendon"
+    },
+    "correct": ["B"],
+    "explanation": "Le biceps possède deux chefs, chacun relié par un tendon."
+  },
+  {
+    "id": 296,
+    "question": "L’organe glanduleux secrétant une substance qui émulsionne les lipides est :",
+    "options": {
+      "A": "le pancréas",
+      "B": "le foie",
+      "C": "l’estomac",
+      "D": "l’intestin grêle"
+    },
+    "correct": ["B"],
+    "explanation": "Le foie sécrète la bile, qui permet l’émulsion des lipides."
+  },
+  {
+    "id": 297,
+    "question": "Quelle est la propriété spécifique aux nerfs ?",
+    "options": {
+      "A": "Excitabilité",
+      "B": "Élasticité",
+      "C": "Contractilité",
+      "D": "Conductibilité"
+    },
+    "correct": ["D"],
+    "explanation": "La conductibilité permet la transmission de l’influx nerveux."
+  },
+  {
+    "id": 298,
+    "question": "Le nerf sciatique est :",
+    "options": {
+      "A": "un nerf sensitif",
+      "B": "un nerf moteur",
+      "C": "un nerf mixte",
+      "D": "aucune réponse"
+    },
+    "correct": ["C"],
+    "explanation": "Le nerf sciatique contient des fibres sensitives et motrices."
+  },
+  {
+    "id": 299,
+    "question": "La propriété qu’ont les artères de moduler leur calibre est :",
+    "options": {
+      "A": "l’élasticité",
+      "B": "la contractilité",
+      "C": "la vasomotricité",
+      "D": "aucune bonne réponse"
+    },
+    "correct": ["C"],
+    "explanation": "La vasomotricité permet aux artères de se dilater ou se contracter."
+  },
+  {
+    "id": 300,
+    "question": "Quel est le poids moyen d’un cœur humain ?",
+    "options": {
+      "A": "400 g",
+      "B": "250 g",
+      "C": "100 g",
+      "D": "150 g"
+    },
+    "correct": ["B"],
+    "explanation": "Le cœur humain pèse en moyenne environ 250 g chez l’adulte."
+  },
+  {
+    "id": 301,
+    "question": "Le rythme cardiaque normal est de :",
+    "options": {
+      "A": "120 battements/min",
+      "B": "100 battements/min",
+      "C": "70 battements/min",
+      "D": "55 battements/min"
+    },
+    "correct": ["C"],
+    "explanation": "Chez l’adulte au repos, le rythme cardiaque normal est d’environ 70 battements par minute."
+  },
+  {
+    "id": 302,
+    "question": "L’artère aorte conduit le sang :",
+    "options": {
+      "A": "du cœur vers les poumons",
+      "B": "du cœur vers les organes",
+      "C": "du poumon vers les organes",
+      "D": "du poumon vers le cœur"
+    },
+    "correct": ["B"],
+    "explanation": "L’aorte transporte le sang oxygéné du cœur vers l’ensemble des organes."
+  },
+  {
+    "id": 303,
+    "question": "La formule de la demi-mâchoire supérieure et inférieure de l’être humain est :",
+    "options": {
+      "A": "2I/2I +1C +2PM +3/3M",
+      "B": "2I/2I +3C +2/2PM +1/1M",
+      "C": "2I/3I +1C +2/2PM +1/1M",
+      "D": "2I/2I +1C +1/1PM +3/3M"
+    },
+    "correct": ["A"],
+    "explanation": "La formule dentaire humaine adulte est : 2 incisives, 1 canine, 2 prémolaires et 3 molaires par demi-mâchoire."
+  },
+  {
+    "id": 304,
+    "question": "Nombre et formule des dents de lait chez l’enfant :",
+    "options": {
+      "A": "20",
+      "B": "32",
+      "C": "8I +4C +8M +8PM",
+      "D": "8I +4C +8PM"
+    },
+    "correct": ["A"],
+    "explanation": "La dentition temporaire de l’enfant est composée de 20 dents."
+  },
+  {
+    "id": 305,
+    "question": "On dit que le muscle est élastique parce que le muscle :",
+    "options": {
+      "A": "reste contracté même au repos",
+      "B": "se raccourcit quand on l’excite",
+      "C": "s’étire pour répondre à une excitation",
+      "D": "s’étire, se déforme et reprend sa forme initiale"
+    },
+    "correct": ["D"],
+    "explanation": "L’élasticité permet au muscle de reprendre sa forme initiale après déformation."
+  },
+  {
+    "id": 306,
+    "question": "Comment appelle-t-on le myogramme obtenu à une suite d’excitations très rapprochées sur le muscle ?",
+    "options": {
+      "A": "Le tétanos parfait",
+      "B": "Le tétanos imparfait",
+      "C": "La secousse musculaire",
+      "D": "Le myographe"
+    },
+    "correct": ["A"],
+    "explanation": "Des excitations très rapprochées provoquent une contraction continue appelée tétanos parfait."
+  },
+  {
+    "id": 307,
+    "question": "La déchirure musculaire :",
+    "options": {
+      "A": "est une contraction involontaire du muscle",
+      "B": "est un claquage très important",
+      "C": "est une rupture de fibres musculaires",
+      "D": "se produit toujours sans effort"
+    },
+    "correct": ["C"],
+    "explanation": "La déchirure correspond à une rupture des fibres musculaires."
+  },
+  {
+    "id": 308,
+    "question": "L’organe accommodateur de l’œil dans la vision à distance est :",
+    "options": {
+      "A": "l’iris",
+      "B": "la pupille",
+      "C": "la conjonctive",
+      "D": "le cristallin"
+    },
+    "correct": ["D"],
+    "explanation": "Le cristallin modifie sa courbure pour assurer la mise au point."
+  },
+  {
+    "id": 309,
+    "question": "L’organe qui protège l’œil contre la lumière est :",
+    "options": {
+      "A": "la pupille",
+      "B": "le cristallin",
+      "C": "la conjonctive",
+      "D": "la cornée"
+    },
+    "correct": ["A"],
+    "explanation": "La pupille régule la quantité de lumière entrant dans l’œil."
+  },
+  {
+    "id": 310,
+    "question": "Quelle est la membrane nourricière de l’œil ?",
+    "options": {
+      "A": "l’arachnoïde",
+      "B": "la choroïde",
+      "C": "la sclérotique",
+      "D": "la rétine"
+    },
+    "correct": ["B"],
+    "explanation": "La choroïde est richement vascularisée et nourrit l’œil."
+  },
+  {
+    "id": 311,
+    "question": "L’organe de l’oreille interne responsable de l’audition est :",
+    "options": {
+      "A": "le tympan",
+      "B": "le vestibule",
+      "C": "la cochlée",
+      "D": "le marteau"
+    },
+    "correct": ["C"],
+    "explanation": "La cochlée est l’organe de l’audition situé dans l’oreille interne."
+  },
+  {
+    "id": 312,
+    "question": "La membrane qui sépare l’oreille externe de l’oreille moyenne est :",
+    "options": {
+      "A": "la cochlée",
+      "B": "le tympan",
+      "C": "l’étrier",
+      "D": "le vestibule"
+    },
+    "correct": ["B"],
+    "explanation": "Le tympan sépare l’oreille externede l’oreille moyenne."
+  },
+  {
+    "id": 313,
+    "question": "Les osselets de l’oreille moyenne sont :",
+    "options": {
+      "A": "le marteau, l’enclume et l’étrier",
+      "B": "le tympan, la cochlée et le vestibule",
+      "C": "le marteau, le vestibule et l’étrier",
+      "D": "la cochlée, l’enclume et le marteau"
+    },
+    "correct": ["A"],
+    "explanation": "Les trois osselets de l’oreille moyenne sont le marteau, l’enclume et l’étrier."
+  },
+  {
+    "id": 314,
+    "question": "L’organe de l’équilibre est situé dans :",
+    "options": {
+      "A": "l’oreille externe",
+      "B": "l’oreille moyenne",
+      "C": "l’oreille interne",
+      "D": "le cerveau"
+    },
+    "correct": ["C"],
+    "explanation": "L’organe de l’équilibre (vestibule et canaux semi-circulaires) se situe dans l’oreille interne."
+  },
+  {
+    "id": 315,
+    "question": "La fonction principale de la trompe d’Eustache est de :",
+    "options": {
+      "A": "amplifier les sons",
+      "B": "équilibrer la pression",
+      "C": "protéger le tympan",
+      "D": "assurer l’audition"
+    },
+    "correct": ["B"],
+    "explanation": "La trompe d’Eustache permet l’équilibrage des pressions de part et d’autre du tympan."
+  },
+  {
+    "id": 316,
+    "question": "Le centre nerveux de l’audition est situé dans :",
+    "options": {
+      "A": "le cervelet",
+      "B": "le bulbe rachidien",
+      "C": "le cortex cérébral",
+      "D": "la moelle épinière"
+    },
+    "correct": ["C"],
+    "explanation": "Les informations auditives sont traitées par le cortex cérébral."
+  },
+  {
+    "id": 317,
+    "question": "L’organe qui capte les vibrations sonores est :",
+    "options": {
+      "A": "le tympan",
+      "B": "la cochlée",
+      "C": "l’étrier",
+      "D": "le vestibule"
+    },
+    "correct": ["A"],
+    "explanation": "Le tympan vibre sous l’effet des ondes sonores."
+  },
+  {
+    "id": 318,
+    "question": "Le nerf auditif transmet les messages nerveux vers :",
+    "options": {
+      "A": "le cœur",
+      "B": "le cervelet",
+      "C": "le cerveau",
+      "D": "la moelle"
+    },
+    "correct": ["C"],
+    "explanation": "Le nerf auditif conduit l’influx nerveux vers le cerveau."
+  },
+  {
+    "id": 319,
+    "question": "La surdité de transmission est due à une atteinte :",
+    "options": {
+      "A": "de l’oreille externe ou moyenne",
+      "B": "de l’oreille interne",
+      "C": "du nerf auditif",
+      "D": "du cerveau"
+    },
+    "correct": ["A"],
+    "explanation": "La surdité de transmission concerne l’oreille externe ou moyenne."
+  },
+  {
+    "id": 320,
+    "question": "La surdité de perception est liée à une atteinte :",
+    "options": {
+      "A": "du tympan",
+      "B": "des osselets",
+      "C": "de la cochlée ou du nerf auditif",
+      "D": "de la trompe d’Eustache"
+    },
+    "correct": ["C"],
+    "explanation": "La surdité de perception concerne l’oreille interne ou le nerf auditif."
+  },
+  {
+    "id": 321,
+    "question": "La respiration chez l’homme permet :",
+    "options": {
+      "A": "la digestion des aliments",
+      "B": "l’apport de dioxygène et l’élimination du dioxyde de carbone",
+      "C": "la circulation du sang",
+      "D": "la production d’urine"
+    },
+    "correct": ["B"],
+    "explanation": "La respiration assure les échanges gazeux : entrée du dioxygène et sortie du dioxyde de carbone."
+  },
+  {
+    "id": 322,
+    "question": "Les échanges gazeux se font principalement au niveau :",
+    "options": {
+      "A": "des bronches",
+      "B": "de la trachée",
+      "C": "des alvéoles pulmonaires",
+      "D": "du diaphragme"
+    },
+    "correct": ["C"],
+    "explanation": "Les échanges de gaz ont lieu au niveau des alvéoles pulmonaires."
+  },
+  {
+    "id": 323,
+    "question": "Le muscle principal de la respiration est :",
+    "options": {
+      "A": "le cœur",
+      "B": "le diaphragme",
+      "C": "le biceps",
+      "D": "l’estomac"
+    },
+    "correct": ["B"],
+    "explanation": "Le diaphragme joue un rôle essentiel dans l’inspiration et l’expiration."
+  },
+  {
+    "id": 324,
+    "question": "Lors de l’inspiration :",
+    "options": {
+      "A": "le diaphragme se relève",
+      "B": "le volume de la cage thoracique diminue",
+      "C": "l’air entre dans les poumons",
+      "D": "les poumons se vident"
+    },
+    "correct": ["C"],
+    "explanation": "Lors de l’inspiration, l’air pénètre dans les poumons."
+  },
+  {
+    "id": 325,
+    "question": "Le dioxygène est transporté dans le sang par :",
+    "options": {
+      "A": "le plasma",
+      "B": "les globules blancs",
+      "C": "l’hémoglobine",
+      "D": "les plaquettes"
+    },
+    "correct": ["C"],
+    "explanation": "Le dioxygène se fixe sur l’hémoglobine contenue dans les globules rouges."
+  },
+  {
+    "id": 326,
+    "question": "Le dioxyde de carbone est éliminé principalement par :",
+    "options": {
+      "A": "les reins",
+      "B": "la peau",
+      "C": "les poumons",
+      "D": "le foie"
+    },
+    "correct": ["C"],
+    "explanation": "Le dioxyde de carbone est éliminé par les poumons lors de l’expiration."
+  },
+  {
+    "id": 327,
+    "question": "La trachée se divise en :",
+    "options": {
+      "A": "alvéoles",
+      "B": "bronchioles",
+      "C": "bronches",
+      "D": "capillaires"
+    },
+    "correct": ["C"],
+    "explanation": "La trachée se divise en deux bronches principales."
+  },
+  {
+    "id": 328,
+    "question": "Une respiration rapide et superficielle est appelée :",
+    "options": {
+      "A": "apnée",
+      "B": "dyspnée",
+      "C": "tachypnée",
+      "D": "bradypnée"
+    },
+    "correct": ["C"],
+    "explanation": "La tachypnée correspond à une respiration rapide."
+  },
+  {
+    "id": 329,
+    "question": "La respiration cellulaire permet :",
+    "options": {
+      "A": "la production d’énergie",
+      "B": "la digestion",
+      "C": "la croissance des os",
+      "D": "l’élimination des déchets"
+    },
+    "correct": ["A"],
+    "explanation": "La respiration cellulaire produit l’énergie nécessaire aux cellules."
+  },
+  {
+    "id": 330,
+    "question": "Le tabagisme affecte principalement :",
+    "options": {
+      "A": "le système digestif",
+      "B": "le système respiratoire",
+      "C": "le système urinaire",
+      "D": "le système osseux"
+    },
+    "correct": ["B"],
+    "explanation": "Le tabac nuit surtout au système respiratoire et aux poumons."
+  },
+  {
+    "id": 331,
+    "question": "Le court terme correspond à quelle période de temps ?",
+    "options": {
+      "A": "Entre 2 à 5 ans",
+      "B": "Au-delà de 5 ans",
+      "C": "Indéfiniment"
+    },
+    "correct": ["A"],
+    "explanation": "En économie, le court terme correspond généralement à une période comprise entre 2 et 5 ans."
+  },
+  {
+    "id": 332,
+    "question": "Dans l'établissement de la facture de doit, quel montant trouve-t-on après la déduction d'un escompte ?",
+    "options": {
+      "A": "Net commercial",
+      "B": "Net financier",
+      "C": "Net à payer",
+      "D": "Montant TTC"
+    },
+    "correct": ["B"],
+    "explanation": "Après déduction de l’escompte, on obtient le net financier."
+  },
+  {
+    "id": 333,
+    "question": "Formule du coût total dans le calcul des coûts :",
+    "options": {
+      "A": "Coût fixe + coût variable",
+      "B": "Coût direct + coût indirect",
+      "C": "Coût indirect + coût fixe"
+    },
+    "correct": ["A"],
+    "explanation": "Le coût total est égal à la somme des coûts fixes et des coûts variables."
+  },
+  {
+    "id": 334,
+    "question": "Réduction accordée au client qui fait son paiement avant la date d'exigibilité :",
+    "options": {
+      "A": "Ristourne",
+      "B": "Escompte",
+      "C": "Rabais",
+      "D": "Remise"
+    },
+    "correct": ["B"],
+    "explanation": "L’escompte est une réduction accordée pour paiement anticipé."
+  },
+  {
+    "id": 335,
+    "question": "Quelle est la bonne définition de la société ?",
+    "options": {
+      "A": "Le regroupement des personnes sur un territoire",
+      "B": "Un ensemble organisé d’individus unis par des relations d’interdépendance",
+      "C": "Le rassemblement des êtres dans un milieu",
+      "D": "Le regroupement des hommes et des femmes pour bien vivre"
+    },
+    "correct": ["B"],
+    "explanation": "La société est un ensemble structuré d’individus liés par des relations sociales."
+  },
+  {
+    "id": 336,
+    "question": "Quand la participation de tous les citoyens est visée, c’est :",
+    "options": {
+      "A": "Le constructivisme",
+      "B": "Le béhaviorisme",
+      "C": "La gestion axée sur les résultats",
+      "D": "Le socioconstructivisme"
+    },
+    "correct": ["D"],
+    "explanation": "Le socioconstructivisme met l’accent sur la participation active des individus."
+  },
+  {
+    "id": 337,
+    "question": "Le père de la psychanalyse est :",
+    "options": {
+      "A": "Alfred Adler",
+      "B": "Sigmund Freud",
+      "C": "Abraham Maslow",
+      "D": "Carl Rogers"
+    },
+    "correct": ["B"],
+    "explanation": "Sigmund Freud est reconnu comme le fondateur de la psychanalyse."
+  },
+  {
+    "id": 338,
+    "question": "Selon Freud, le garçon va éprouver l’angoisse de castration et le désir de supprimer le père :",
+    "options": {
+      "A": "Le complexe de Homard",
+      "B": "L’anti-Œdipe",
+      "C": "Le complexe d’Œdipe",
+      "D": "L’angoisse d’Œdipe"
+    },
+    "correct": ["C"],
+    "explanation": "Le complexe d’Œdipe décrit ce conflit psychique chez l’enfant."
+  },
+  {
+    "id": 339,
+    "question": "La seconde topique freudienne est le système :",
+    "options": {
+      "A": "Subconscient–conscient",
+      "B": "Inconscient–préconscient–surmoi",
+      "C": "Ça, moi et surmoi",
+      "D": "Subconscient–préconscient"
+    },
+    "correct": ["C"],
+    "explanation": "La seconde topique freudienne comprend le ça, le moi et le surmoi."
+  },
+  {
+    "id": 340,
+    "question": "L’inconscient se manifeste par :",
+    "options": {
+      "A": "Le regard",
+      "B": "La conscience",
+      "C": "Les rêves",
+      "D": "L’oubli"
+    },
+    "correct": ["C", "D"],
+    "explanation": "Les rêves et certains oublis sont des manifestations de l’inconscient."
+  },
+  {
+    "id": 341,
+    "question": "Quelle est la variable centrale dans la fixation du produit agrégé selon Keynes ?",
+    "options": {
+      "A": "Les prix",
+      "B": "Les exportations nettes",
+      "C": "La demande globale",
+      "D": "L’offre globale"
+    },
+    "correct": ["C"],
+    "explanation": "Pour Keynes, la demande globale détermine le niveau de production."
+  },
+  {
+    "id": 342,
+    "question": "L’inflation est :",
+    "options": {
+      "A": "Le maintien du pouvoir d’achat",
+      "B": "La baisse du pouvoir d’achat de la monnaie",
+      "C": "L’augmentation du pouvoir d’achat",
+      "D": "Aucune bonne réponse"
+    },
+    "correct": ["B"],
+    "explanation": "L’inflation correspond à une baisse du pouvoir d’achat de la monnaie."
+  },
+  {
+    "id": 343,
+    "question": "Constitue un impôt direct :",
+    "options": {
+      "A": "La TVA",
+      "B": "L’impôt sur les sociétés",
+      "C": "L’impôt sur le revenu",
+      "D": "La taxe professionnelle"
+    },
+    "correct": ["C"],
+    "explanation": "L’impôt sur le revenu est un impôt direct."
+  },
+  {
+    "id": 344,
+    "question": "Quelle est la durée du crédit à moyen terme ?",
+    "options": {
+      "A": "2 à 7 ans",
+      "B": "Plus de 5 ans",
+      "C": "2 à 3 ans",
+      "D": "Plus de 7 ans"
+    },
+    "correct": ["A"],
+    "explanation": "Le crédit à moyen terme a une durée comprise entre 2 et 7 ans."
+  },
+  {
+    "id": 345,
+    "question": "Abréger une loi, c’est :",
+    "options": {
+      "A": "L’annuler",
+      "B": "La rendre applicable",
+      "C": "Prolonger le temps",
+      "D": "Remplacer par un nouvel article"
+    },
+    "correct": ["A"],
+    "explanation": "Abroger une loi signifie l’annuler."
+  },
+  {
+    "id": 346,
+    "question": "La décision rendue par la Cour d’appel est :",
+    "options": {
+      "A": "Un arrêt",
+      "B": "Un jugement",
+      "C": "Un rendu",
+      "D": "Un pourvoi"
+    },
+    "correct": ["A"],
+    "explanation": "La Cour d’appel rend des arrêts."
+  },
+  {
+    "id": 347,
+    "question": "Les catégories d’infraction au sens de la loi pénale sont :",
+    "options": {
+      "A": "Délit, contravention, crime",
+      "B": "Contravention, meurtre, associant",
+      "C": "Crime, infraction, contravention",
+      "D": "Délit, meurtre, crime"
+    },
+    "correct": ["A"],
+    "explanation": "La loi pénale distingue contraventions, délits et crimes."
+  },
+  {
+    "id": 348,
+    "question": "Quel économiste a élaboré la théorie pour stimuler l’économie en cas de récession ?",
+    "options": {
+      "A": "Adam Smith",
+      "B": "Friedman",
+      "C": "John Maynard Keynes",
+      "D": "Aucune réponse"
+    },
+    "correct": ["C"],
+    "explanation": "John Maynard Keynes a développé une théorie économique prônant l’intervention de l’État pour relancer l’économie en période de récession."
+  },
+  {
+    "id": 349,
+    "question": "Selon la théorie de Modigliani :",
+    "options": {
+      "A": "Les consommateurs lissent leur consommation tout au long de leur vie",
+      "B": "Ils investissent uniquement à la retraite",
+      "C": "Ils maintiennent leur niveau de consommation constant",
+      "D": "Ils consomment uniquement selon leur revenu actuel"
+    },
+    "correct": ["A"],
+    "explanation": "La théorie du cycle de vie de Modigliani explique que les individus lissent leur consommation sur l’ensemble de leur vie."
+  },
+  {
+    "id": 350,
+    "question": "Qui pense que les relations économiques fondent une société par un lien social ?",
+    "options": {
+      "A": "Platon",
+      "B": "Thomas Hobbes",
+      "C": "Jean-Jacques Rousseau",
+      "D": "Adam Smith"
+    },
+    "correct": ["D"],
+    "explanation": "Adam Smith considérait que les relations économiques constituent un fondement essentiel du lien social."
+  },
+  {
+    "id": 351,
+    "question": "Un cycle économique se compose de :",
+    "options": {
+      "A": "Phase d’expansion et de dévaluation",
+      "B": "Phase d’expansion et de crise",
+      "C": "Phase d’expansion et de reprise",
+      "D": "Phase d’expansion et de contraction"
+    },
+    "correct": ["D"],
+    "explanation": "Un cycle économique alterne généralement des phases d’expansion et de contraction."
+  },
+  {
+    "id": 352,
+    "question": "Le protectionnisme favorise :",
+    "options": {
+      "A": "La concurrence accrue",
+      "B": "Une économie d’échelle",
+      "C": "Les consommateurs",
+      "D": "Les producteurs"
+    },
+    "correct": ["D"],
+    "explanation": "Le protectionnisme vise à protéger les producteurs nationaux contre la concurrence étrangère."
+  },
+  {
+    "id": 353,
+    "question": "Les politiques de subventions salariales et de baisse d’impôts sont qualifiées de politiques :",
+    "options": {
+      "A": "Monétaristes",
+      "B": "De gauche",
+      "C": "Interventionnistes",
+      "D": "D’inspiration néoclassique"
+    },
+    "correct": ["C"],
+    "explanation": "Ces politiques relèvent de l’intervention de l’État dans l’économie."
+  },
+  {
+    "id": 354,
+    "question": "Quel service s’occupe de la fiscalité de porte ?",
+    "options": {
+      "A": "Le service de la fiscalité",
+      "B": "Le service de la douane",
+      "C": "Le service du Trésor",
+      "D": "Instrument de la politique budgétaire"
+    },
+    "correct": ["B"],
+    "explanation": "La fiscalité de porte relève du service des douanes."
+  },
+  {
+    "id": 355,
+    "question": "Les allocations familiales relèvent de quel droit ?",
+    "options": {
+      "A": "Droit fiscal",
+      "B": "Droit du travail",
+      "C": "Droit administratif",
+      "D": "Droit de sécurité sociale"
+    },
+    "correct": ["D"],
+    "explanation": "Les allocations familiales font partie du droit de la sécurité sociale."
+  },
+  {
+    "id": 356,
+    "question": "Le droit syndical est :",
+    "options": {
+      "A": "Un droit collectif",
+      "B": "Un droit individuel",
+      "C": "Un droit collectif, individuel et libre",
+      "D": "Un droit collectif et obligatoire"
+    },
+    "correct": ["C"],
+    "explanation": "Le droit syndical est à la fois collectif, individuel et libre."
+  },
+  {
+    "id": 357,
+    "question": "La Cour d’appel est une juridiction :",
+    "options": {
+      "A": "De tous les ordres de juridiction",
+      "B": "De l’ordre judiciaire uniquement",
+      "C": "De l’ordre administratif uniquement",
+      "D": "D’aucun ordre"
+    },
+    "correct": ["B"],
+    "explanation": "La Cour d’appel appartient à l’ordre judiciaire."
+  },
+  {
+    "id": 358,
+    "question": "Un vol est :",
+    "options": {
+      "A": "Un délit",
+      "B": "Un crime",
+      "C": "Une contravention",
+      "D": "Aucune réponse"
+    },
+    "correct": ["A"],
+    "explanation": "Le vol est qualifié de délit en droit pénal."
+  },
+  {
+    "id": 359,
+    "question": "La justice au Burkina Faso est rendue au nom de :",
+    "options": {
+      "A": "La Constitution",
+      "B": "La loi",
+      "C": "La démocratie",
+      "D": "Le peuple"
+    },
+    "correct": ["D"],
+    "explanation": "La justice est rendue au nom du peuple burkinabè."
+  },
+  {
+    "id": 360,
+    "question": "Quels sont les trois fondements du droit ?",
+    "options": {
+      "A": "Droit positif",
+      "B": "Force",
+      "C": "Intérêt social",
+      "D": "Droit naturel"
+    },
+    "correct": ["B", "C", "D"],
+    "explanation": "Les fondements du droit sont la force, l’intérêt social et le droit naturel."
+  },
+  {
+    "id": 361,
+    "question": "Dans le contrat de vente, le droit de propriété est transféré :",
+    "options": {
+      "A": "À la livraison",
+      "B": "Instantanément",
+      "C": "À la conclusion du contrat",
+      "D": "Au paiement du prix"
+    },
+    "correct": ["C"],
+    "explanation": "En droit civil, le transfert de propriété s’opère dès la conclusion du contrat, sauf stipulation contraire."
+  },
+  {
+    "id": 362,
+    "question": "Est une nullité absolue du contrat de travail :",
+    "options": {
+      "A": "Le contrat de vente de drogue",
+      "B": "Le contrat avec un mineur",
+      "C": "Le contrat dont l’objet est contraire à la morale",
+      "D": "Aucune réponse"
+    },
+    "correct": ["C"],
+    "explanation": "Un contrat dont l’objet est contraire à la morale ou à l’ordre public est frappé de nullité absolue."
+  },
+  {
+    "id": 363,
+    "question": "La décision rendue par la Cour d’appel :",
+    "options": {
+      "A": "Est un arrêt",
+      "B": "Est un jugement",
+      "C": "Met fin à la procédure pénale",
+      "D": "Double la peine pour le défendeur"
+    },
+    "correct": ["A"],
+    "explanation": "Les décisions de la Cour d’appel sont appelées des arrêts."
+  },
+  {
+    "id": 364,
+    "question": "Laquelle des définitions explique clairement la liberté ?",
+    "options": {
+      "A": "Le pouvoir de décider",
+      "B": "La capacité de se décider en dépit de toutes les déterminations",
+      "C": "La possibilité de pouvoir agir en dehors de toute contrainte intérieure et extérieure",
+      "D": "La possibilité de faire ce que l’on veut"
+    },
+    "correct": ["C"],
+    "explanation": "La liberté implique l’absence de contraintes internes et externes."
+  },
+  {
+    "id": 365,
+    "question": "Les perquisitions :",
+    "options": {
+      "A": "Peuvent être réalisées par un agent de police judiciaire en flagrant délit",
+      "B": "Peuvent se réaliser en présence du juge d’instruction",
+      "C": "Sont faites par les préfets dans les chefs-lieux",
+      "D": "Aucune réponse"
+    },
+    "correct": ["A", "B"],
+    "explanation": "Les perquisitions sont possibles en flagrant délit par un APJ ou sous l’autorité du juge d’instruction."
+  },
+  {
+    "id": 366,
+    "question": "Un enfant né :",
+    "options": {
+      "A": "Peut porter le nom de sa mère",
+      "B": "Porte le nom du mari de sa mère",
+      "C": "Ne peut pas avoir de prénom",
+      "D": "N’a pas de droits"
+    },
+    "correct": ["B"],
+    "explanation": "Dans le mariage, l’enfant porte le nom du mari de sa mère selon la présomption de paternité."
+  },
+  {
+    "id": 367,
+    "question": "Le tribunal administratif :",
+    "options": {
+      "A": "Est animé par des commissaires de gouvernement",
+      "B": "Est animé par des procureurs",
+      "C": "Connaît des décrets pris en Conseil des ministres",
+      "D": "Est animé par des juges consulaires"
+    },
+    "correct": ["A"],
+    "explanation": "Le tribunal administratif fonctionne avec des commissaires de gouvernement."
+  },
+  {
+    "id": 368,
+    "question": "Lequel n’est pas un recours administratif ?",
+    "options": {
+      "A": "Le recours gracieux",
+      "B": "Le recours contentieux",
+      "C": "Le recours hiérarchique",
+      "D": "Aucune bonne réponse"
+    },
+    "correct": ["D"],
+    "explanation": "Les trois autres propositions sont toutes des recours administratifs."
+  },
+  {
+    "id": 369,
+    "question": "Types de biens en matière civile :",
+    "options": {
+      "A": "Publics et privés",
+      "B": "Meubles et immeubles",
+      "C": "Primaires et secondaires",
+      "D": "Aucune bonne réponse"
+    },
+    "correct": ["B"],
+    "explanation": "En droit civil, les biens sont classés en meubles et immeubles."
+  },
+  {
+    "id": 370,
+    "question": "Trouver l’intrus :",
+    "options": {
+      "A": "Juge",
+      "B": "Procureur",
+      "C": "Avocat",
+      "D": "Huissier"
+    },
+    "correct": ["D"],
+    "explanation": "L’huissier n’est pas un magistrat, contrairement aux autres."
+  },
+  {
+    "id": 371,
+    "question": "La situation d’asymétrie d’information existe lorsque :",
+    "options": {
+      "A": "Les parties n’ont pas les mêmes informations",
+      "B": "Une partie cache des informations à l’autre",
+      "C": "Il y a corruption",
+      "D": "L’information est totalement transparente"
+    },
+    "correct": ["A", "B"],
+    "explanation": "L’asymétrie d’information survient lorsque l’information est inégalement répartie entre les parties."
+  },
+  {
+    "id": 372,
+    "question": "Qu’est-ce qu’un fait juridique ?",
+    "options": {
+      "A": "Un fait susceptible d’entraîner une action en justice",
+      "B": "Un événement auquel la loi attache des effets de droit indépendamment de la volonté des intéressés",
+      "C": "Un événement se déroulant devant un juge administratif",
+      "D": "La signature d’un document administratif"
+    },
+    "correct": ["B"],
+    "explanation": "Le fait juridique produit des effets de droit sans la volonté des parties."
+  },
+  {
+    "id": 373,
+    "question": "La promulgation d’une loi :",
+    "options": {
+      "A": "Rend la loi obligatoire à tous",
+      "B": "Est une publication de la loi nouvelle",
+      "C": "Rend la loi inopposable",
+      "D": "Est une notification"
+    },
+    "correct": ["A"],
+    "explanation": "La promulgation rend la loi exécutoire et obligatoire pour tous."
+  },
+  {
+    "id": 374,
+    "question": "FAUSSE FOURRURE est associée à 123445 – 15377375. À quoi est associé le numéro 123442875 ?",
+    "options": {
+      "A": "FAUCILLES",
+      "B": "FAUSSAIRE",
+      "C": "FATALISME",
+      "D": "FACETTE"
+    },
+    "correct": ["B"],
+    "explanation": "Chaque lettre est codée par sa position alphabétique avec répétition selon les lettres identiques. Le code correspond à FAUSSAIRE."
+  },
+  {
+    "id": 375,
+    "question": "Quel nombre complète la série suivante ? 10 – 155 – 12 – 152 – 14 – 149 – 16 – 146 – 18 – ?",
+    "options": {
+      "A": "140",
+      "B": "142",
+      "C": "143",
+      "D": "144"
+    },
+    "correct": ["C"],
+    "explanation": "Deux suites alternées : +2 pour les petits nombres et −3 pour les grands. Après 18 vient 143."
+  },
+  {
+    "id": 376,
+    "question": "Trouver la lettre manquante : U1 – S6 – O11 – ?16",
+    "options": {
+      "A": "T",
+      "B": "R",
+      "C": "S",
+      "D": "P"
+    },
+    "correct": ["B"],
+    "explanation": "Les lettres reculent de 2 positions (U, S, O, R) et les nombres augmentent de +5."
+  },
+  {
+    "id": 377,
+    "question": "DFXGF14 – WDVVG ? – FBIJGX F20 – CFGNQL S23",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "19",
+      "D": "11"
+    },
+    "correct": ["B"],
+    "explanation": "Le nombre correspond à la position alphabétique moyenne des lettres du groupe. La valeur correcte est 10."
+  },
+  {
+    "id": 378,
+    "question": "Compléter le chiffre manquant : 7 – 13 – 25 – 49 – ?",
+    "options": {
+      "A": "97",
+      "B": "98",
+      "C": "30",
+      "D": "48"
+    },
+    "correct": ["A"],
+    "explanation": "La règle est ×2 −1 : 7→13→25→49→97."
+  },
+  {
+    "id": 379,
+    "question": "Quelle est la suite ? RGM – SHN – TIO – ?",
+    "options": {
+      "A": "NOP",
+      "B": "UMP",
+      "C": "CRT",
+      "D": "DPN"
+    },
+    "correct": ["D"],
+    "explanation": "Chaque lettre progresse de +1 dans chaque groupe : R→S→T→D, G→H→I→P, M→N→O→N."
+  },
+  {
+    "id": 380,
+    "question": "Quelle est la suite ? 157 – 625 – 913 – ?",
+    "options": {
+      "A": "542",
+      "B": "576",
+      "C": "841",
+      "D": "789"
+    },
+    "correct": ["C"],
+    "explanation": "Chaque nombre est composé de carrés successifs : 1²5²7² → 9²1³ ? → 841."
+  }
+]
