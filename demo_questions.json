@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "question": "Date de décès de l’ancien joueur et ancien entraîneur du Burkina Faso, Drissa Malo Traoré dit Saboteur :",
+    "options": {
+      "A": "7 décembre 2023",
+      "B": "1er décembre 2023",
+      "C": "3 décembre 2023",
+      "D": "9 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "Drissa Malo Traoré, surnommé Saboteur, est décédé le 3 décembre 2023."
+  },
+  {
+    "id": 2,
+    "question": "Date de la rencontre entre le chef de l’État et les acteurs de la coordination de la veille citoyenne au palais des sports de Ouaga 2000 :",
+    "options": {
+      "A": "15 janvier 2024",
+      "B": "07 février 2024",
+      "C": "17 février 2024",
+      "D": "05 mars 2024"
+    },
+    "correct": ["C"],
+    "explanation": "La rencontre s’est tenue le 17 février 2024 au palais des sports de Ouaga 2000."
+  },
+  {
+    "id": 3,
+    "question": "Quel chercheur burkinabè a été désigné le 13 décembre 2023 parmi les 10 scientifiques de l’année par le magazine britannique Nature ?",
+    "options": {
+      "A": "Mohamadi Zéba",
+      "B": "Halidou Tinto",
+      "C": "Frédéric Ouattara",
+      "D": "Boubacar Kountche"
+    },
+    "correct": ["B"],
+    "explanation": "Le chercheur burkinabè Halidou Tinto a été classé parmi les 10 scientifiques de l’année 2023 par Nature."
+  },
+  {
+    "id": 4,
+    "question": "Date d’ouverture du Salon International du Tourisme et de l’Hôtellerie de Ouagadougou (SITHO) 2023 :",
+    "options": {
+      "A": "24 novembre 2023",
+      "B": "26 octobre 2023",
+      "C": "26 septembre 2023",
+      "D": "29 octobre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "L’édition 2023 du SITHO a officiellement ouvert le 26 octobre 2023."
+  },
+  {
+    "id": 5,
+    "question": "Pays invité d’honneur du SITHO-VITHRO 2023 :",
+    "options": {
+      "A": "Mali",
+      "B": "Guinée",
+      "C": "Niger",
+      "D": "Ghana"
+    },
+    "correct": ["B"],
+    "explanation": "La Guinée était le pays invité d’honneur du SITHO-VITHRO 2023."
+  },
+  {
+    "id": 6,
+    "question": "Qui est l’actuel chef d’État-major de la gendarmerie nationale du Burkina Faso ?",
+    "options": {
+      "A": "Évrard Somda",
+      "B": "Kassoum Coulibaly",
+      "C": "Natama Kouagri",
+      "D": "Coulibaly Mamadou"
+    },
+    "correct": ["C"],
+    "explanation": "Le colonel Natama Kouagri est l’actuel chef d’État-major de la gendarmerie nationale."
+  },
+  {
+    "id": 7,
+    "question": "Date de nomination de l’actuel chef d’État-major de la gendarmerie nationale :",
+    "options": {
+      "A": "20 novembre 2022",
+      "B": "04 octobre 2023",
+      "C": "04 octobre 2022",
+      "D": "04 novembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "La nomination est intervenue le 4 octobre 2023."
+  },
+  {
+    "id": 8,
+    "question": "À quelle date le gouvernement a-t-il retiré les permis d’exploitation de quatre mines industrielles ?",
+    "options": {
+      "A": "08 novembre 2023",
+      "B": "08 octobre 2023",
+      "C": "09 octobre 2023",
+      "D": "08 décembre 2023"
+    },
+    "correct": ["A"],
+    "explanation": "Le retrait des permis est intervenu le 8 novembre 2023."
+  },
+  {
+    "id": 9,
+    "question": "Date à laquelle le capitaine Ibrahim Traoré a posé la première pierre pour la construction d’une raffinerie d’or au Burkina Faso :",
+    "options": {
+      "A": "21 novembre 2023",
+      "B": "23 novembre 2023",
+      "C": "16 septembre 2023",
+      "D": "23 octobre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "La première pierre de la raffinerie d’or a été posée le 23 novembre 2023."
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la capacité prévisionnelle de la première raffinerie d’or du Burkina Faso ?",
+    "options": {
+      "A": "200 kg/jour",
+      "B": "300 kg/jour",
+      "C": "400 kg/jour",
+      "D": "500 kg/jour"
+    },
+    "correct": ["C"],
+    "explanation": "La capacité prévisionnelle annoncée est de 400 kg d’or par jour."
+  },
+  {
+    "id": 11,
+    "question": "La 17e édition de la Foire Internationale du Livre de Ouagadougou (FILO) s’est déroulée du :",
+    "options": {
+      "A": "22 au 24 novembre 2023",
+      "B": "23 au 26 novembre 2023",
+      "C": "25 au 29 novembre 2023",
+      "D": "21 au 26 novembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "La 17e édition de la FILO s’est tenue du 23 au 26 novembre 2023."
+  },
+  {
+    "id": 12,
+    "question": "Date de démission du Pr Stanislas Ouaro du MPP :",
+    "options": {
+      "A": "7 décembre 2023",
+      "B": "8 décembre 2023",
+      "C": "9 décembre 2023",
+      "D": "5 décembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "Le Pr Stanislas Ouaro a démissionné du MPP le 8 décembre 2023."
+  },
+  {
+    "id": 13,
+    "question": "Date de lancement de la plateforme eDouanes :",
+    "options": {
+      "A": "13 décembre 2023",
+      "B": "14 décembre 2023",
+      "C": "15 décembre 2023",
+      "D": "16 décembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "La plateforme eDouanes a été lancée officiellement le 14 décembre 2023."
+  },
+  {
+    "id": 14,
+    "question": "Quel est le coût global de la plateforme eDouanes ?",
+    "options": {
+      "A": "2,8 milliards de FCFA",
+      "B": "2,3 milliards de FCFA",
+      "C": "3,8 milliards de FCFA",
+      "D": "3,2 milliards de FCFA"
+    },
+    "correct": ["A"],
+    "explanation": "Le coût global de mise en œuvre de la plateforme eDouanes est estimé à 2,8 milliards de FCFA."
+  },
+  {
+    "id": 15,
+    "question": "Quel est le thème de la 28e édition des Nuits Atypiques de Koudougou (NAK) ?",
+    "options": {
+      "A": "Culture et cohésion sociale",
+      "B": "Culture et Agriculture",
+      "C": "Économie créative et développement local",
+      "D": "Culture et Artisanat"
+    },
+    "correct": ["B"],
+    "explanation": "La 28e édition des NAK s’est tenue sous le thème « Culture et Agriculture »."
+  },
+  {
+    "id": 16,
+    "question": "Yacouba Sawadogo, lauréat du Prix Nobel Alternatif 2018, est décédé le :",
+    "options": {
+      "A": "1er décembre 2023",
+      "B": "2 décembre 2023",
+      "C": "3 décembre 2023",
+      "D": "4 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "Yacouba Sawadogo est décédé le 3 décembre 2023."
+  },
+  {
+    "id": 17,
+    "question": "Le gouvernement burkinabè a décidé de la suspension du journal Le Monde le :",
+    "options": {
+      "A": "2 décembre 2023",
+      "B": "3 décembre 2023",
+      "C": "4 décembre 2023",
+      "D": "5 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "La suspension du journal Le Monde est intervenue le 4 décembre 2023."
+  },
+  {
+    "id": 18,
+    "question": "Date de retrait du Burkina Faso et du Niger du G5 Sahel et de la Force conjointe :",
+    "options": {
+      "A": "28 novembre 2023",
+      "B": "29 novembre 2023",
+      "C": "30 novembre 2023",
+      "D": "2 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "Le Burkina Faso et le Niger se sont retirés du G5 Sahel le 30 novembre 2023."
+  },
+  {
+    "id": 19,
+    "question": "Selon le Premier ministre Apollinaire Joachim Kyélem de Tambèla, quel est le taux de territoire reconquis annoncé ?",
+    "options": {
+      "A": "65,60 %",
+      "B": "65,65 %",
+      "C": "65,70 %",
+      "D": "66,50 %"
+    },
+    "correct": ["B"],
+    "explanation": "Le Premier ministre a annoncé un taux de reconquête du territoire de 65,65 %."
+  },
+  {
+    "id": 20,
+    "question": "Date de l’effondrement d’une dalle à l’Université Norbert Zongo :",
+    "options": {
+      "A": "31 août 2021",
+      "B": "12 août 2023",
+      "C": "28 novembre 2021",
+      "D": "16 mai 2022"
+    },
+    "correct": ["A"],
+    "explanation": "L’effondrement de la dalle à l’Université Norbert Zongo s’est produit le 31 août 2021."
+  },
+  {
+    "id": 21,
+    "question": "Date d’ouverture du procès de l’effondrement d’une dalle à l’Université Norbert Zongo :",
+    "options": {
+      "A": "10 décembre 2023",
+      "B": "12 décembre 2023",
+      "C": "14 décembre 2023",
+      "D": "16 décembre 2023"
+    },
+    "correct": ["B"],
+    "explanation": "Le procès lié à l’effondrement de la dalle de l’Université Norbert Zongo s’est ouvert le 12 décembre 2023."
+  },
+  {
+    "id": 22,
+    "question": "Date de la réouverture officielle de l’ambassade de la Fédération de Russie à Ouagadougou :",
+    "options": {
+      "A": "22 décembre 2023",
+      "B": "24 décembre 2023",
+      "C": "26 décembre 2023",
+      "D": "28 décembre 2023"
+    },
+    "correct": ["D"],
+    "explanation": "L’ambassade de la Fédération de Russie a officiellement rouvert le 28 décembre 2023 à Ouagadougou."
+  },
+  {
+    "id": 23,
+    "question": "Avant de rouvrir en 2023, depuis quelle année la Russie avait-elle fermé son ambassade au Burkina Faso ?",
+    "options": {
+      "A": "1987",
+      "B": "1988",
+      "C": "1992",
+      "D": "1994"
+    },
+    "correct": ["C"],
+    "explanation": "La Russie avait fermé son ambassade au Burkina Faso en 1992 avant sa réouverture en 2023."
+  },
+  {
+    "id": 24,
+    "question": "Date de lancement du nouveau produit de la LONAB dénommé « Pari sportif » :",
+    "options": {
+      "A": "22 décembre 2023",
+      "B": "23 décembre 2023",
+      "C": "26 décembre 2023",
+      "D": "29 décembre 2023"
+    },
+    "correct": ["C"],
+    "explanation": "Le produit « Pari sportif » de la LONAB a été lancé le 26 décembre 2023."
+  },
+  {
+    "id": 25,
+    "question": "Date d’adoption du projet de loi portant conditions d’entrée, de séjour des étrangers et de sortie des nationaux :",
+    "options": {
+      "A": "14 février 2024",
+      "B": "17 février 2024",
+      "C": "22 février 2024",
+      "D": "27 février 2024"
+    },
+    "correct": ["C"],
+    "explanation": "Le projet de loi a été adopté le 22 février 2024."
+  },
+  {
+    "id": 26,
+    "question": "Date de création de l’Autorité nationale de coordination du foncier (ANCF) :",
+    "options": {
+      "A": "21 février 2024",
+      "B": "24 février 2024",
+      "C": "26 février 2024",
+      "D": "Aucune réponse"
+    },
+    "correct": ["C"],
+    "explanation": "L’Autorité nationale de coordination du foncier (ANCF) a été créée le 26 février 2024."
+  },
+  {
+    "id": 27,
+    "question": "Le Conseil des ministres en sa séance du 06 mars 2024 a institué la Journée des coutumes et traditions au Burkina Faso le :",
+    "options": {
+      "A": "15 mars de chaque année",
+      "B": "15 mai de chaque année",
+      "C": "15 avril de chaque année",
+      "D": "15 juin de chaque année"
+    },
+    "correct": ["B"],
+    "explanation": "La Journée des coutumes et traditions est célébrée chaque 15 mai."
+  },
+  {
+    "id": 28,
+    "question": "Date du crash de l’avion de la compagnie privée Lead’Air :",
+    "options": {
+      "A": "06 mars 2024",
+      "B": "07 mars 2024",
+      "C": "08 mars 2024",
+      "D": "09 mars 2024"
+    },
+    "correct": ["A"],
+    "explanation": "Le crash de l’avion de la compagnie Lead’Air est survenu le 6 mars 2024."
+  },
+  {
+    "id": 29,
+    "question": "Aux championnats du monde d’athlétisme en salle disputés le 02 mars 2024 à Glasgow, Hugues Fabrice Zango a remporté la médaille d’or avec un saut de :",
+    "options": {
+      "A": "17,23 m",
+      "B": "17,53 m",
+      "C": "17,34 m",
+      "D": "18,21 m"
+    },
+    "correct": ["B"],
+    "explanation": "Hugues Fabrice Zango a remporté l’or grâce à un saut de 17,53 mètres."
+  },
+  {
+    "id": 30,
+    "question": "Rang du Burkina Faso aux championnats du monde d’athlétisme en salle de 2024 :",
+    "options": {
+      "A": "8e place",
+      "B": "9e place",
+      "C": "11e place",
+      "D": "14e place"
+    },
+    "correct": ["B"],
+    "explanation": "Le Burkina Faso a terminé à la 9e place du classement général."
+  },
+  {
+    "id": 31,
+    "question": "Date du dernier remaniement ministériel au Burkina Faso :",
+    "options": {
+      "A": "10 décembre 2023",
+      "B": "12 décembre 2023",
+      "C": "14 décembre 2023",
+      "D": "17 décembre 2023"
+    },
+    "correct": ["A"],
+    "explanation": "Le dernier remaniement ministériel au Burkina Faso est intervenu le 10 décembre 2023."
+  },
+  {
+    "id": 32,
+    "question": "Qui a été élevé au rang de ministre d’État à la faveur du remaniement ministériel du 17 décembre 2023 ?",
+    "options": {
+      "A": "Bassolma Bazié",
+      "B": "Rimtalba Jean Emmanuel Ouédraogo",
+      "C": "Kassoum Coulibaly",
+      "D": "Yacouba Zabré Gouba"
+    },
+    "correct": ["B"],
+    "explanation": "Rimtalba Jean Emmanuel Ouédraogo a été élevé au rang de ministre d’État lors du remaniement du 17 décembre 2023."
+  },
+  {
+    "id": 33,
+    "question": "Selon le classement mondial de la liberté de la presse publié le 3 mai 2023 par Reporters Sans Frontières (RSF), quelle est la position du Burkina Faso ?",
+    "options": {
+      "A": "Dernier du classement derrière la Chine",
+      "B": "54e place sur 180 pays",
+      "C": "La Corée du Nord est dernier du classement",
+      "D": "58e place sur 180 pays"
+    },
+    "correct": ["D"],
+    "explanation": "Selon RSF en 2023, le Burkina Faso occupe la 58e place sur 180 pays."
+  },
+  {
+    "id": 34,
+    "question": "Quel ancien secrétaire général du gouvernement est devenu ministre de l’Éducation nationale lors du remaniement du 17 décembre 2023 ?",
+    "options": {
+      "A": "André Joseph Ouédraogo",
+      "B": "Jacques Sosthène Dingara",
+      "C": "Jean Baptiste Zoungrana",
+      "D": "Désiré Yaméogo"
+    },
+    "correct": ["B"],
+    "explanation": "Jacques Sosthène Dingara, ancien secrétaire général du gouvernement, a été nommé ministre de l’Éducation nationale."
+  },
+  {
+    "id": 35,
+    "question": "L’actuel chef de la diplomatie du Burkina Faso est :",
+    "options": {
+      "A": "Edasso Rodrigue Bayala",
+      "B": "Rimtalba Jean Emmanuel Ouédraogo",
+      "C": "Karamoko Jean Marie Traoré",
+      "D": "Bassolma Bazié"
+    },
+    "correct": ["C"],
+    "explanation": "Le ministre des Affaires étrangères du Burkina Faso est Karamoko Jean Marie Traoré."
+  },
+  {
+    "id": 36,
+    "question": "Le décret portant conditions et modalités de dénonciation des faits de corruption et infractions assimilées dans les administrations publiques et les récompenses y afférentes :",
+    "options": {
+      "A": "a été signé le 14 mars 2024",
+      "B": "comporte 12 articles",
+      "C": "a été signé le 16 mars 2024",
+      "D": "comporte 10 articles"
+    },
+    "correct": ["C", "D"],
+    "explanation": "Le décret a été signé le 16 mars 2024 et comporte 10 articles."
+  },
+  {
+    "id": 37,
+    "question": "Selon l’Indice de Perception de la Corruption (IPC) 2023 de Transparency International, le Burkina Faso occupe :",
+    "options": {
+      "A": "la 83e place sur 180 pays",
+      "B": "la 11e place sur 54 pays africains",
+      "C": "la 93e place sur 180 pays",
+      "D": "la 21e place sur 54 pays africains"
+    },
+    "correct": ["B"],
+    "explanation": "En 2023, le Burkina Faso occupe la 11e place sur 54 pays africains selon Transparency International."
+  },
+  {
+    "id": 38,
+    "question": "Selon l’Indice de Perception de la Corruption (IPC) 2023 de Transparency International, le pays le plus corrompu du monde est :",
+    "options": {
+      "A": "Le Venezuela",
+      "B": "La Somalie",
+      "C": "La Tanzanie",
+      "D": "Le Yémen"
+    },
+    "correct": ["B"],
+    "explanation": "La Somalie est classée comme le pays le plus corrompu au monde selon l’IPC 2023."
+  },
+  {
+    "id": 39,
+    "question": "Le Tour du Faso 2023 était à sa :",
+    "options": {
+      "A": "34e édition",
+      "B": "33e édition",
+      "C": "43e édition",
+      "D": "23e édition"
+    },
+    "correct": ["A"],
+    "explanation": "L’édition 2023 du Tour du Faso était la 34e."
+  },
+  {
+    "id": 40,
+    "question": "Qui est le vainqueur de la dernière étape du Tour du Faso 2023 ?",
+    "options": {
+      "A": "Achraf Ed-Doghmy",
+      "B": "Paul Daumont",
+      "C": "Boureima Sawadogo",
+      "D": "Rutger Wouters"
+    },
+    "correct": ["A"],
+    "explanation": "La dernière étape du Tour du Faso 2023 a été remportée par Achraf Ed-Doghmy."
+  },
+  {
+    "id": 41,
+    "question": "Dans le cadre de l’Initiative présidentielle pour la production agricole 2023-2024, la production attendue en céréales et légumes en fin de saison est de :",
+    "options": {
+      "A": "190 000 tonnes",
+      "B": "200 000 tonnes",
+      "C": "225 000 tonnes",
+      "D": "300 000 tonnes"
+    },
+    "correct": ["A"],
+    "explanation": "La production attendue est estimée à 190 000 tonnes."
+  },
+  {
+    "id": 42,
+    "question": "L’ensemble des notes à la fin d’un ouvrage s’appelle :",
+    "options": {
+      "A": "appendice",
+      "B": "édifice",
+      "C": "silice",
+      "D": "indice"
+    },
+    "correct": ["A"],
+    "explanation": "L’appendice regroupe les notes et informations complémentaires placées à la fin d’un ouvrage."
+  },
+  {
+    "id": 43,
+    "question": "Qu’est-ce qu’une fable ?",
+    "options": {
+      "A": "un roman historique",
+      "B": "un récit en vers ou en prose qui contient une morale",
+      "C": "un dialogue philosophique",
+      "D": "un essai littéraire"
+    },
+    "correct": ["B"],
+    "explanation": "La fable est un court récit en vers ou en prose dont l’objectif est d’enseigner une morale."
+  },
+  {
+    "id": 44,
+    "question": "Qu’est-ce qu’un incipit ?",
+    "options": {
+      "A": "la fin de la pièce",
+      "B": "une figure de style",
+      "C": "la fin d’une démonstration",
+      "D": "le début d’un récit"
+    },
+    "correct": ["D"],
+    "explanation": "L’incipit désigne l’ouverture ou le début d’une œuvre littéraire."
+  },
+  {
+    "id": 45,
+    "question": "Un thème ou une formule qui revient plusieurs fois dans une œuvre est :",
+    "options": {
+      "A": "une rime",
+      "B": "un vers",
+      "C": "une citation",
+      "D": "un leitmotiv"
+    },
+    "correct": ["D"],
+    "explanation": "Le leitmotiv est un thème ou une idée récurrente dans une œuvre."
+  },
+  {
+    "id": 46,
+    "question": "Dans un roman, un personnage est homodiégétique quand il :",
+    "options": {
+      "A": "est présent dans l’histoire qu’il raconte",
+      "B": "est simple témoin",
+      "C": "a une vue d’ensemble de l’histoire",
+      "D": "est absent de l’histoire"
+    },
+    "correct": ["A"],
+    "explanation": "Un narrateur ou personnage homodiégétique participe à l’histoire qu’il raconte."
+  },
+  {
+    "id": 47,
+    "question": "Qu’est-ce qu’un roman épistolaire ?",
+    "options": {
+      "A": "un roman sans auteur connu",
+      "B": "un roman d’aventures",
+      "C": "un roman par lettres",
+      "D": "un roman de fiction"
+    },
+    "correct": ["C"],
+    "explanation": "Le roman épistolaire est un roman construit sous forme de lettres."
+  },
+  {
+    "id": 48,
+    "question": "Le paratexte renvoie :",
+    "options": {
+      "A": "à la maison d’édition",
+      "B": "aux paragraphes",
+      "C": "au titre du texte et à la structure du texte",
+      "D": "au contenu narratif"
+    },
+    "correct": ["C"],
+    "explanation": "Le paratexte regroupe les éléments qui encadrent le texte : titre, préface, couverture, etc."
+  },
+  {
+    "id": 49,
+    "question": "Dans le livre, quelle partie conclut l’action et constitue le dénouement ?",
+    "options": {
+      "A": "préface",
+      "B": "épilogue",
+      "C": "intrigue",
+      "D": "prologue"
+    },
+    "correct": ["B"],
+    "explanation": "L’épilogue se situe à la fin de l’œuvre et clôt l’action principale."
+  },
+  {
+    "id": 50,
+    "question": "Qu’est-ce qu’une œuvre apocryphe ?",
+    "options": {
+      "A": "non signée",
+      "B": "non authentique",
+      "C": "antérieure à l’imprimerie",
+      "D": "codée"
+    },
+    "correct": ["B"],
+    "explanation": "Une œuvre apocryphe est une œuvre dont l’authenticité est douteuse ou faussement attribuée."
+  },
+  {
+    "id": 51,
+    "question": "Une dissertation à plan dialectique doit comporter :",
+    "options": {
+      "A": "deux points de vue contradictoires",
+      "B": "un dialogue",
+      "C": "deux arguments",
+      "D": "plusieurs parties"
+    },
+    "correct": ["A"],
+    "explanation": "Le plan dialectique repose sur la confrontation de points de vue opposés."
+  }
+]
