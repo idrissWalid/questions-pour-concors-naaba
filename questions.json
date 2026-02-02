@@ -4543,17 +4543,6 @@
     },
     "correct": ["D"],
     "explanation": "Chaque lettre progresse de +1 dans chaque groupe : R→S→T→D, G→H→I→P, M→N→O→N."
-  },
-  {
-    "id": 380,
-    "question": "Quelle est la suite ? 157 – 625 – 913 – ?",
-    "options": {
-      "A": "542",
-      "B": "576",
-      "C": "841",
-      "D": "789"
-    },
-    "correct": ["C"],
-    "explanation": "Chaque nombre est composé de carrés successifs : 1²5²7² → 9²1³ ? → 841."
   }
+
 ]
